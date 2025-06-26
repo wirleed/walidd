@@ -1,0 +1,1349 @@
+COUNTRY,CITY,THEME,HIGHLIGHTS,PRECAUTION,VISA,AVG_COST_PER_DAY,FLIGHT_COST
+Afghanistan,Kabul,culture,"National Museum, Babur's Garden, Shah-Do Shamshira Mosque",Security concerns,Yes,40,1300
+Afghanistan,Herat,photography,"Herat Citadel, Friday Mosque, Old Bazaar",Exercise caution in public places,Yes,35,1300
+Afghanistan,Bamyan,culture,"Buddha Niches, Band-e Amir Lakes, Local Village Life",Remote area,Yes,30,1300
+Afghanistan,Mazar-i-Sharif,culture,"Blue Mosque (Shrine of Hazrat Ali), Local Market",Security and large gatherings risk,Yes,35,1300
+Afghanistan,Kandahar,culture,"Kandahar Museum, Mosque of the Cloak, Old City",Limited tourist infrastructure,Yes,30,1300
+Afghanistan,Faizabad,photography,"Mountain Valley Views, Village Scenery, Kokcha River",Poor road conditions,Yes,25,1300
+Afghanistan,Ghazni,culture,"Ghazni Minarets, Local Forts, Historical Tombs",Area of military activity,Yes,30,1300
+Afghanistan,Panjshir,adventurous,"Panjshir Valley Trekking, Scenic Mountains",Travel with experienced guide,Yes,35,1300
+Afghanistan,Taloqan,photography,"Hindu Kush Foothills, Rural Life, Rice Fields",Minimal tourism infrastructure,Yes,25,1300
+Afghanistan,Nuristan,adventurous,"Forest Trekking, River Gorges, Tribal Culture",Very remote,Yes,30,1300
+Afghanistan,Badakhshan,adventurous,"Wakhan Corridor, Mountain Trekking, Remote Villages",Remote area,Yes,30,1300
+Afghanistan,Samangan,culture,"Takht-e-Rustam Buddhist Stupa, Historical Caves",Exercise caution; low visibility for tourists,Yes,30,1300
+Afghanistan,Farah,photography,"Desert Landscapes, Farah Citadel, Local Market Scenes",Travel only with local guidance,Yes,25,1300
+Afghanistan,Nimruz,adventurous,"Sandy Plains, Frontier Life, Ethnic Culture",Sparse services and infrastructure,Yes,25,1300
+Afghanistan,Baghlan,photography,"Andarab Valley, Rural Villages, Mountain Views",Challenging travel conditions,Yes,30,1300
+Afghanistan,Khost,culture,"Mosques, Tribal Villages, Local Markets",Occasional unrest; stay updated,Yes,25,1300
+Afghanistan,Lashkar Gah,culture,"Helmand River Views, Local Forts, Agriculture Region",High caution advised,Yes,25,1300
+Afghanistan,Zaranj,photography,"Iran-Afghan Border Culture, Traditional Markets",Remote and arid region,Yes,25,1300
+Afghanistan,Logar,culture,"Kharkush Fort, Local Heritage Sites, Mosque Visits",Basic amenities only,Yes,25,1300
+Afghanistan,Kapisa,adventurous,"Hindu Kush Hiking, River Valleys, Tribal Life",Low travel support,Yes,30,1300
+Armenia,Yerevan,modern,"Republic Square shopping district, Cafes, Vernissage Market",Watch traffic in city center,No,45,900
+Armenia,Gyumri,culture,"Black Fortress, Kumayri Historic District, Folk Museum",Cold winters,No,40,900
+Armenia,Dilijan,photography,"Dilijan National Park, Haghartsin Monastery (temple), Forest Trails",Prepare for mountainous weather,No,40,900
+Armenia,Vanadzor,culture,"Church of the Holy Mother of God, Soviet architecture, Art Gallery",Chilly climate,No,35,900
+Armenia,Sevan,photography,"Lake Sevan, Sevanavank Monastery (temple), Water Sports",Cool temperatures,No,35,900
+Armenia,Tatev,adventurous,"Tatev Monastery (temple), Wings of Tatev cable car, Mountain views",Cable car timing limitations,No,40,900
+Armenia,Jermuk,photography,"Hot Springs, Waterfall, Spa Resorts",Mild altitude caution,No,35,900
+Armenia,Garni,culture,"Garni Temple (pagan temple), Symphony of Stones, Mountain scenery",Remote access,No,35,900
+Armenia,Geghard,culture,"Geghard Monastery (temple), Clifftop views, Historical site",Narrow access roads,No,35,900
+Armenia,Alaverdi,photography,"Sanahin Monastery, Debed River Canyon, Rural Town",Weather changes quickly,No,30,900
+Armenia,Stepanakert,photography,"Mountain Landscapes, Cultural Monuments, Local Bazaar",Check border advisories,No,30,900
+Armenia,Ashtarak,culture,"Karmravor Church, Kasagh River Bridge, Local Markets",Small town transport,No,30,900
+Armenia,Ijevan,photography,"Apaga Resort, Forest Trails, Monasteries",Forested terrain navigation,No,35,900
+Armenia,Artashat,culture,"Ancient ruins of Dvin, Ararat views, Churches",Rural safety practices,No,30,900
+Armenia,Megri,adventurous,"Southern Border Town, Nature Trails, Fort Ruins",Limited public transport,No,30,900
+Armenia,Martuni,photography,"Lake Shore Views, Quiet Nature, Small Churches",Low tourism infrastructure,No,30,900
+Armenia,Vayk,culture,"Vayots Dzor Monastery, Wine Cellars, Arpa River",Chilly evenings,No,30,900
+Armenia,Spitak,culture,"Post-earthquake town, Local Museum, Churches",Limited amenities,No,30,900
+Armenia,Noyemberyan,photography,"Rolling Hills, Village Culture, Old Architecture",Remote area,No,30,900
+Armenia,Eghegnadzor,adventurous,"Noravank Monastery (temple), Cave hiking, Wine culture",Desert road access,No,30,900
+Azerbaijan,Baku,modern,"Flame Towers, Baku Boulevard, Shopping Malls",Stay cautious at night in busy areas,Yes,50,950
+Azerbaijan,Sheki,culture,"Sheki Khan's Palace, Old Bazaar, Historic Mosque",Cobblestone streets,Yes,40,950
+Azerbaijan,Ganja,culture,"Imamzadeh Mosque, Nizami Mausoleum, Bottle House",Religious site etiquette,Yes,40,950
+Azerbaijan,Lankaran,photography,"Lankaran Fortress, Caspian Sea Shore, Tea Plantations",Mosquitoes in summer,Yes,35,950
+Azerbaijan,Quba,adventurous,"Quba Mountains, Forest Hikes, Apple Orchards",Mountain driving caution,Yes,35,950
+Azerbaijan,Naftalan,culture,"Naftalan Oil Spa, Sanatoriums, Museums",Medical sensitivity to oil therapy,Yes,45,950
+Azerbaijan,Gabala,photography,"Tufandag Mountain Resort, Lake Nohur, Cable Car",Weather can change quickly in mountains,Yes,40,950
+Azerbaijan,Shamakhi,culture,"Shamakhi Astrophysical Observatory, Ancient Mausoleum, Old Town",Highland travel advisories,Yes,35,950
+Azerbaijan,Nakhchivan,photography,"Alinja Castle, Mausoleum of Momine Khatun, Salt Cave",Limited transport from Baku,Yes,35,950
+Azerbaijan,Khachmaz,photography,"Yalama Forest, Beaches, Local Markets",Public transport delays,Yes,30,950
+Azerbaijan,Zaqatala,adventurous,"Zaqatala Nature Reserve, Fortress, Mountain Villages",Remote trekking safety,Yes,35,950
+Azerbaijan,Gusar,photography,"Shahdag Ski Resort, Caucasus Peaks, Ethnic Villages",Cold temperatures in winter,Yes,40,950
+Azerbaijan,Masalli,culture,"Thermal Springs, Mosques, Forest Trails",Use bottled water,Yes,30,950
+Azerbaijan,Astara,photography,"Lush Forests, Caspian Views, Local Cuisine",Border area awareness,Yes,30,950
+Azerbaijan,Ismayilli,culture,"Lahij Village, Copper Craft Shops, Mountain Road",Narrow mountain roads,Yes,35,950
+Azerbaijan,Oghuz,photography,"Forest Resorts, Alpine Scenery, Local Life",Limited nightlife options,Yes,30,950
+Azerbaijan,Tovuz,culture,"Archaeological Sites, Wine Cellars, Monuments",Avoid border regions,Yes,30,950
+Azerbaijan,Goychay,culture,"Pomegranate Festival, Rural Life, Local Mosque",Seasonal access,Yes,30,950
+Azerbaijan,Shaki,culture,"Caravanserai, Fortress, Artisans? Workshops",Steep streets,Yes,35,950
+Azerbaijan,Barda,culture,"Ancient Tombs, Religious Buildings, Local Markets",Limited English signage,Yes,30,950
+Bahrain,Manama,modern,"Bahrain City Centre (shopping mall), Bahrain World Trade Center, Financial Harbour",Respect dress code in public areas,Yes,60,950
+Bahrain,Muharraq,culture,"Bahrain Pearling Trail (UNESCO), Shaikh Isa House, Old Souq",Be mindful in conservative neighborhoods,Yes,55,950
+Bahrain,Riffa,photography,"Riffa Fort, Local Bazaar, Traditional Markets",Avoid photographing locals without permission,Yes,50,950
+Bahrain,Hamala,adventurous,"Equestrian Club, Desert Driving, Camel Farms",Hydrate in desert areas,Yes,55,950
+Bahrain,Isa Town,culture,"Isa Cultural Centre, Traditional Handicraft Shops, Local Mosques",Cultural sensitivity required,Yes,50,950
+Bahrain,Sitra,photography,"Mangrove Forests, Fishing Villages, Coastal Views",Heat caution during midday,Yes,45,950
+Bahrain,A'ali,culture,"Ancient Burial Mounds, Pottery Workshops, Local Market",Preserve heritage sites,Yes,45,950
+Bahrain,Sanabis,modern,"Seef Mall, Skyscrapers, Caf?s and Boutiques",Traffic congestion during peak hours,Yes,50,950
+Bahrain,Janabiyah,photography,"Horse Riding Clubs, Countryside Scenes, Farms",Respect private property,Yes,45,950
+Bahrain,Zallaq,adventurous,"Bahrain International Circuit (F1), Al Areen Wildlife Park, Water Sports",Use sun protection,Yes,60,950
+Bahrain,Awali,modern,"Oil Museum, Modern Housing Layout, Golf Club",Restricted zones near oil facilities,Yes,55,950
+Bahrain,Al Jasra,culture,"Al Jasra Handicraft Centre, Traditional Bahraini Houses, Local Workshops",Support artisans respectfully,Yes,50,950
+Bahrain,Budaiya,photography,"Budaiya Botanical Garden, Beachfront Views, Old Town Streets",Avoid taking photos of people without consent,Yes,50,950
+Bahrain,Adliya,modern,"Contemporary Art Galleries, Trendy Restaurants, Caf? Culture",Crowds during nightlife hours,Yes,60,950
+Bahrain,Juffair,modern,"High-rise Hotels, American Alley (nightlife), Bahrain Specialist Hospital",Cultural sensitivity after hours,Yes,60,950
+Bahrain,Amwaj Islands,photography,"Marina Promenade, Waterfront Apartments, Scenic Walks",Respect private property signage,Yes,70,950
+Bahrain,Hidd,adventurous,"Pearl Diving Centers, Fishing Ports, Coastal Exploration",Stay hydrated during water activities,Yes,55,950
+Bahrain,Galali,culture,"Local Fishing Community, Traditional Mosques, Old Markets",Modest clothing advised,Yes,45,950
+Bahrain,Sehla,photography,"Urban Landscapes, Daily Bahraini Life, Local Street Scenes",Be cautious of busy traffic areas,Yes,50,950
+Bahrain,Karzakkan,culture,"Date Palm Groves, Rural Farming Community, Traditional Architecture",Watch for uneven walking paths,Yes,45,950
+Bangladesh,Dhaka,culture,Lalbagh Fort (historical fort),busy traffic and pollution,Yes,40,180
+Bangladesh,Chittagong,photography,Patenga Beach (coastal view),local scams in markets,Yes,38,185
+Bangladesh,Cox's Bazar,adventurous,Cox?s Bazar Beach (longest sea beach),strong waves in monsoon,Yes,35,190
+Bangladesh,Sylhet,culture,Shahjalal Dargah (religious shrine),respect local customs,Yes,30,175
+Bangladesh,Khulna,culture,Sundarbans Mangrove Forest (UNESCO site),guided tours advised,Yes,35,185
+Bangladesh,Rajshahi,culture,Paharpur Ruins (ancient Buddhist monastery),hot in summer,Yes,30,180
+Bangladesh,Barisal,photography,Kuakata Beach (sunrise and sunset views),limited medical access,Yes,30,185
+Bangladesh,Rangamati,adventurous,Hanging Bridge & Kaptai Lake (lake exploration),landslide during rainy season,Yes,28,180
+Bangladesh,Bandarban,adventurous,Nilgiri Hills (hill hiking),remote transport issues,Yes,32,185
+Bangladesh,Srimangal,photography,Tea Gardens & Lawachara Forest (green scenery),insect repellent needed,Yes,28,175
+Bangladesh,Comilla,culture,Mainamati Ruins (archaeological site),avoid night travel,Yes,30,180
+Bangladesh,Mymensingh,photography,Shashi Lodge & Brahmaputra River (colonial view),moderate infrastructure,Yes,29,175
+Bangladesh,Narayanganj,culture,Panam City (abandoned heritage town),secure valuables,Yes,30,170
+Bangladesh,Patuakhali,photography,Kuakata Eco Park (wildlife photography),uneven roads,Yes,28,185
+Bangladesh,Bhola,culture,Char Kukri Mukri (wildlife island),power cuts in remote areas,Yes,26,190
+Bangladesh,Satkhira,adventurous,Sundarbans (wildlife tours,tiger habitat),Yes,32,185
+Bangladesh,Dinajpur,culture,Kantajew Temple (terracotta temple),hot and humid,Yes,28,185
+Bangladesh,Jessore,culture,Michael Madhusudan Dutta Memorial (literary heritage),minor local transport issues,Yes,27,180
+Bangladesh,Noakhali,culture,Alexander Castle (historic building),language barrier possible,Yes,25,180
+Bangladesh,Gazipur,modern,Bangabandhu Safari Park (wildlife),crowded weekends,Yes,28,175
+Bhutan,Thimphu,culture,Tashichho Dzong (monastic fortress),altitude sickness risk,Yes,70,1400
+Bhutan,Paro,photography,Paro Taktsang (Tiger?s Nest Temple),steep hike to monastery,Yes,75,1400
+Bhutan,Punakha,culture,Punakha Dzong (riverside fortress),avoid rainy season floods,Yes,65,1350
+Bhutan,Bumthang,culture,Jakar Dzong (cultural district),remote access by road,Yes,70,1450
+Bhutan,Phuentsholing,culture,Zangto Pelri Lhakhang (city temple),border area security checks,Yes,55,1300
+Bhutan,Haa,adventurous,Haa Valley (offbeat trekking),cold weather at night,Yes,60,1400
+Bhutan,Trongsa,culture,Trongsa Dzong (strategic historic site),winding mountain roads,Yes,65,1400
+Bhutan,Mongar,culture,Mongar Dzong (hilltop fortress),limited tourist infrastructure,Yes,60,1450
+Bhutan,Lhuntse,photography,Khoma village (traditional weaving),remote area travel issues,Yes,55,1450
+Bhutan,Trashigang,culture,Trashigang Dzong (eastern monastery),basic lodging facilities,Yes,60,1450
+Bhutan,Samdrup Jongkhar,culture,local market & border town,limited medical services,Yes,50,1350
+Bhutan,Paro,adventurous,Drukgyel Dzong Ruins (historical hike),uneven paths,Yes,65,1400
+Bhutan,Thimphu,modern,Clock Tower Square (urban hangout/shopping),altitude-related fatigue,Yes,70,1400
+Bhutan,Wangdue Phodrang,culture,Wangdue Dzong reconstruction site,active construction zone,Yes,60,1350
+Bhutan,Gasa,adventurous,Gasa Hot Springs (natural baths),landslide risk in monsoon,Yes,55,1450
+Bhutan,Dagana,photography,Daga Dzong & local villages (scenic views),remote road access,Yes,55,1400
+Bhutan,Tsirang,culture,local temples and citrus farms,steep terrain driving,Yes,55,1400
+Bhutan,Sarpang,culture,hill temples & market scenes,limited tourist services,Yes,50,1350
+Bhutan,Zhemgang,adventurous,Royal Manas National Park (wildlife trekking),guided travel needed,Yes,55,1450
+Bhutan,Tashiyangtse,culture,Chorten Kora (religious site),crowding during festivals,Yes,60,1450
+Brunei,Bandar Seri Begawan,culture,"Omar Ali Saifuddien Mosque (mosque), Royal Regalia Museum, Kampong Ayer (water village)",Respect local customs and dress modestly,No,80,300
+Brunei,Kuala Belait,modern,"Kuala Belait Beach, Billionth Barrel Monument, Local Shopping Mall",Avoid discussing politics openly,No,75,300
+Brunei,Seria,culture,"Oil and Gas Discovery Centre (museum), Seria Mosque, Oil Fields Tour",Respect local Islamic traditions,No,70,300
+Brunei,Tutong,photography,"Tasek Merimbun Heritage Park (lake), Tutong Market, Eco Parks",Use sunscreen,No,65,300
+Brunei,Temburong,adventurous,"Ulu Temburong National Park (rainforest), Canopy Walk, Waterfalls",Prepare for rainforest humidity,No,70,300
+Brunei,Jerudong,modern,"Jerudong Park Playground (amusement park), Jerudong Beach, Shopping Mall",Stay hydrated,No,75,300
+Brunei,Muara,photography,"Muara Beach, Serasa Beach (water activities), Local Villages",Be aware of strong tides,No,60,300
+Brunei,Kianggeh,culture,"Kianggeh Market, Local Mosques, Heritage Trails",Respect Islamic prayer times,No,60,300
+Brunei,Bukit Shahbandar,adventurous,"Bukit Shahbandar Forest Reserve (hiking), Trails, Observation Points",Bring water and proper footwear,No,65,300
+Brunei,Berakas,modern,"Berakas Beach, Times Square Mall, Sports Complex",Avoid public displays of affection,No,70,300
+Brunei,Sungai Liang,culture,"Forestry Museum, Local Mosques, Cultural Workshops",Respect local customs,No,65,300
+Brunei,Lumut,photography,"Lumut Beach, Mangrove Views, Coastal Sunset Spots",Protect camera gear from humidity,No,60,300
+Brunei,Rimba,modern,"Rimba Garden Central (shopping mall), Eco Garden Trails, Local Eateries",Avoid peak heat hours,No,70,300
+Brunei,Gadong,modern,"The Mall Gadong (shopping mall), Local Night Market, Modern Caf?s",Be cautious of crowded places,No,75,300
+Brunei,Sengkurong,culture,"Sengkurong Mosque, Traditional Markets, Cultural Centers",Dress conservatively,No,65,300
+Brunei,Subok,photography,"Bukit Subok Recreational Park (hill view), Mosques, Local Streets",Use sun protection,No,60,300
+Brunei,Sumbiling,adventurous,"Sumbiling Eco Village (forest experience), River Activities, Village Stays",Bring bug spray,No,70,300
+Brunei,Panaga,culture,"Panaga Club, Historic Oil Company Housing, Cultural Events",Access may be limited to club members,No,65,300
+Brunei,Bebuloh,photography,"Kampong Bebuloh (cultural village), Paddy Fields, Sunset Shots",Ask permission before photographing people,No,60,300
+Brunei,Bunut,adventurous,"Kampong Bunut Forest Reserve, Proboscis Monkey Watching, Boat Ride",Book local guide,No,70,300
+Cambodia,Siem Reap,culture,Angkor Wat Temple Complex,Stay hydrated and protect against heat,No,45,250
+Cambodia,Phnom Penh,culture,"Royal Palace, Silver Pagoda",Watch belongings in crowded areas,No,40,240
+Cambodia,Battambang,photography,"Colonial Architecture, Bamboo Train",Road safety caution,No,35,260
+Cambodia,Sihanoukville,adventurous,"Beaches, Scuba Diving",Check sea conditions before swimming,No,50,270
+Cambodia,Kampot,culture,"Old French Quarter, Pepper Farms",Travel cautiously on rural roads,No,35,255
+Cambodia,Kep,photography,"Crab Market, Beach Cliff Views",Food hygiene awareness,No,30,255
+Cambodia,Koh Rong,adventurous,"Snorkeling, Island Hiking",Limited medical facilities,No,50,275
+Cambodia,Kratie,photography,Mekong River Dolphin Spotting,Insect protection needed,No,30,260
+Cambodia,Preah Vihear,culture,Preah Vihear Temple,Remote location travel care,No,40,270
+Cambodia,Takeo,culture,"Ta Prohm Temple, Rural Temples",Ensure transportation plans,No,30,250
+Cambodia,Stung Treng,adventurous,"River Kayaking, Wetlands Tour",Limited amenities in rural areas,No,35,265
+Cambodia,Pursat,culture,"Cardamom Mountains, Temples",Ensure safe transport arrangements,No,30,260
+Cambodia,Pailin,culture,"Wat Phnom Yat Temple, Gem Markets",Be cautious of border areas,No,30,265
+Cambodia,Ratanakiri,adventurous,"Waterfalls, Jungle Treks",Travel with guides in remote areas,No,40,275
+Cambodia,Senmonorom,photography,"Elephant Valley Project, Rolling Hills",Respect wildlife zones,No,40,270
+Cambodia,Oddar Meanchey,culture,"Ancient Temples, Peace Park",Border safety precautions,No,30,265
+Cambodia,Tbong Khmum,photography,"Historic Villages, Mekong Viewpoints",Insect repellent needed,No,30,255
+Cambodia,Kampong Thom,culture,"Pre-Angkorian Temples, Cultural Museum",Stay hydrated during exploration,No,35,260
+Cambodia,Kampong Cham,culture,"French Colonial Bridge, Riverside Market",Traffic awareness needed,No,30,255
+Cambodia,Koh Dach (Silk Island),photography,"Traditional Silk Weaving, Rural Village Life",Limited transportation options,No,25,250
+China,Beijing,Culture,Forbidden City (palace),Air pollution precautions,Yes,75,120
+China,Shanghai,Modern,Shanghai Tower (observation deck),Beware of tourist traps,Yes,80,130
+China,Xi'an,Culture,Terracotta Army (museum),Crowded during peak season,Yes,70,110
+China,Chengdu,Culture,Chengdu Research Base of Giant Panda Breeding (zoo),Food sensitivity,Yes,65,115
+China,Guilin,Photography,Li River Cruise (landscape),Mosquito repellent advised,Yes,60,125
+China,Hangzhou,Culture,West Lake (heritage site),Pickpocket awareness,Yes,65,130
+China,Harbin,Adventurous,Harbin Ice Festival (event),Extreme cold weather gear,Yes,70,160
+China,Lhasa,Culture,Potala Palace (temple),Altitude sickness,Yes,80,180
+China,Kunming,Photography,Stone Forest (nature park),Stay hydrated at altitude,Yes,55,120
+China,Sanya,Modern,Yalong Bay (beach resort),Sunburn protection,Yes,90,140
+China,Zhangjiajie,Photography,Zhangjiajie National Forest Park (mountains),Slippery trails,Yes,65,135
+China,Qingdao,Modern,Qingdao Beer Museum (brewery),Cultural sensitivity,Yes,70,115
+China,Nanjing,Culture,Nanjing Massacre Memorial (museum),Emotional content,Yes,65,125
+China,Huangshan,Photography,Huangshan Mountains (scenic spot),Mountain trekking safety,Yes,60,130
+China,Shenzhen,Modern,Window of the World (theme park),Beware of scams,Yes,85,120
+China,Xiamen,Culture,Gulangyu Island (heritage site),Limited transport options,Yes,65,120
+China,Dali,Photography,Erhai Lake (scenic area),Cold nights,Yes,60,125
+China,Lijiang,Culture,Old Town (UNESCO site),Crowded lanes,Yes,60,125
+China,Suzhou,Culture,Humble Administrator's Garden (heritage site),Wear comfortable shoes,Yes,60,120
+China,Tianjin,Modern,Italian Style Street (shopping mall),Price haggling common,Yes,70,120
+China,Wuhan,Culture,Yellow Crane Tower (temple),Hot summers,Yes,65,130
+China,Datong,Culture,Yungang Grottoes (caves),Rural travel conditions,Yes,60,130
+China,Jiuzhaigou,Photography,Jiuzhaigou Valley (national park),Altitude precautions,Yes,75,140
+China,Urumqi,Adventurous,Tianchi Lake (mountain lake),Security checks,Yes,70,150
+China,Kashgar,Culture,Id Kah Mosque (mosque),Remote travel risks,Yes,65,170
+China,Macau,Modern,Venetian Macau (casino/mall),Spending control,No,100,150
+China,Hong Kong,Modern,Victoria Peak (viewpoint),Crowded public transit,No,90,140
+China,Ningbo,Culture,Tianyi Pavilion (library),Language barrier,Yes,65,120
+China,Yangzhou,Culture,Slender West Lake (heritage site),Navigation signs in Mandarin,Yes,60,125
+China,Yantai,Photography,Penglai Pavilion (coastal temple),Wear sunscreen,Yes,60,130
+China,Hohhot,Culture,Dazhao Temple (temple),Dust storms,Yes,60,135
+China,Baotou,Culture,Genghis Khan Mausoleum (monument),Remote location,Yes,60,140
+China,Shigatse,Culture,Tashilhunpo Monastery (temple),Altitude sickness,Yes,65,180
+China,Turpan,Photography,Jiaohe Ruins (archaeological site),Extreme heat,Yes,60,160
+China,Luoyang,Culture,Longmen Grottoes (heritage site),Cave safety,Yes,65,130
+China,Kaifeng,Culture,Iron Pagoda (temple),Older infrastructure,Yes,60,120
+China,Anhui,Culture,Hongcun Village (historic village),Uneven paths,Yes,55,130
+China,Zhouzhuang,Culture,Water Town (canal city),Watch for slippery bridges,Yes,60,120
+China,Wuyishan,Adventurous,Wuyi Mountains (tea mountains),Leech protection,Yes,65,135
+China,Qufu,Culture,Confucius Temple (temple),Cultural dress code,Yes,60,125
+China,Beihai,Modern,Silver Beach (coastal resort),Heat stroke risk,Yes,70,140
+China,Yibin,Photography,Shunan Bamboo Sea (forest park),Watch out for insects,Yes,60,135
+China,Weihai,Modern,Liugong Island (historical site),Humidity issues,Yes,65,135
+China,Dunhuang,Culture,Mogao Caves (Buddhist caves),Dusty air,Yes,70,160
+China,Lanzhou,Culture,Yellow River Scenic Area (viewpoint),Limited English,Yes,65,140
+China,Yinchuan,Culture,Western Xia Tombs (ancient tombs),Remote area,Yes,60,140
+China,Changsha,Culture,Yuelu Academy (old university),Noise pollution,Yes,65,125
+China,Nanning,Culture,Detian Falls (waterfall),Be cautious around water,Yes,60,135
+China,Haikou,Modern,Holiday Beach (resort beach),Rainy season,Yes,70,140
+China,Zhuhai,Modern,Lovers Road (coastal walk),Night safety,Yes,75,130
+China,Anyang,Culture,Yin Ruins (archaeological museum),Rural area,Yes,60,120
+China,Zunyi,Culture,Zunyi Conference Site (historical site),Off beaten path,Yes,60,130
+China,Guiyang,Culture,Qianling Park (urban park),Hilly roads,Yes,65,135
+China,Shijiazhuang,Culture,Zhaozhou Bridge (historic bridge),Traffic congestion,Yes,60,130
+China,Jinan,Culture,Baotu Spring Park (natural spring),Wet surfaces,Yes,65,125
+China,Yangshuo,Photography,Karst Mountains (scenic trekking),Adventure risks,Yes,65,130
+China,Pingyao,Culture,Ancient Walled City (UNESCO site),Rough cobblestones,Yes,60,130
+China,Hefei,Culture,Anhui Museum (history museum),Language barrier,Yes,60,125
+China,Xining,Culture,Ta'er Monastery (temple),Altitude awareness,Yes,65,145
+China,Changchun,Culture,Imperial Palace Museum (heritage site),Cold winters,Yes,65,135
+China,Dalian,Modern,Xinghai Square (shopping district),Overpriced vendors,Yes,70,130
+China,Foshan,Culture,Ancestral Temple (temple),Heat warnings,Yes,65,120
+China,Ningxia,Culture,Shapotou Desert Resort (desert experience),Sandstorms,Yes,60,140
+China,Maoming,Photography,Shuidong Bay (coastal view),Riptides,Yes,65,135
+China,Zhangye,Photography,Zhangye Danxia (rainbow mountains),Heat exhaustion,Yes,70,145
+China,Jiaxing,Culture,South Lake (historic site),Tourist crowds,Yes,60,120
+China,Meizhou,Culture,Hakka Museum (heritage center),Language barrier,Yes,60,125
+China,Hengyang,Culture,Mount Heng (sacred mountain),Climbing fatigue,Yes,60,130
+China,Yan'an,Culture,Revolutionary Memorial Hall (museum),Limited transport,Yes,60,135
+China,Chaozhou,Culture,Guangji Bridge (ancient bridge),Watch for flooding,Yes,60,130
+China,Taizhou,Culture,Tiantai Mountain (temple trail),Steep paths,Yes,60,130
+China,Zhanjiang,Culture,Huguangyan Scenic Area (volcanic lake),Mosquitoes,Yes,60,130
+China,Quanzhou,Culture,Qingjing Mosque (historic mosque),Respect dress codes,Yes,60,125
+China,Xiangyang,Culture,Gucheng Old Town (historic zone),Less signage in English,Yes,60,130
+China,Liuzhou,Culture,Liuhou Park (heritage park),Humidity,Yes,60,130
+China,Huizhou,Culture,West Lake Scenic Area (park),Insect bites,Yes,60,125
+China,Shaoxing,Culture,Lu Xun Native Place (literary museum),Literary Chinese signs,Yes,60,125
+China,Xuzhou,Culture,Han Dynasty Terracotta Warriors (museum),Limited amenities,Yes,60,125
+China,Yueyang,Culture,Junshan Island (island park),Lake transport,Yes,60,130
+China,Baoji,Culture,Famen Temple (temple),Mountainous terrain,Yes,60,135
+China,Yuncheng,Culture,Guanque Tower (historic building),Heat waves,Yes,60,135
+China,Liaoyang,Culture,White Pagoda Park (heritage site),Slippery steps,Yes,60,135
+China,Tonghua,Culture,Changbai Mountain Range (hiking),Wild animals,Yes,65,145
+China,Jilin,Culture,Songhua Lake (nature retreat),Cold winters,Yes,65,140
+China,Hulunbuir,Adventurous,Hulunbuir Grassland (steppe riding),Nomadic exposure,Yes,70,160
+China,Lianyungang,Culture,Huaguo Mountain (mythical mountain),Weather changes,Yes,60,130
+China,Bengbu,Culture,Zhanggongshan Park (urban greenery),Few English speakers,Yes,60,125
+China,Xuancheng,Culture,Jixi Longchuan (heritage village),Sparse transport,Yes,60,125
+China,Yancheng,Culture,Dafeng Elk Reserve (wildlife sanctuary),Wildlife distance,Yes,60,130
+China,Leshan,Culture,Big Buddha Statue (temple),High crowds,Yes,65,135
+China,Zibo,Culture,Ancient Qi City Site (historical ruins),Old infrastructure,Yes,60,125
+Cyprus,Nicosia,Culture,Byzantine Museum (religious art),Respect cultural dress codes,Yes,85,2100
+Cyprus,Larnaca,Culture,Church of Saint Lazarus (religious site),Beware of summer heat,Yes,80,2150
+Cyprus,Limassol,Modern,Limassol Marina (luxury promenade),Overpriced tourist areas,Yes,90,2200
+Cyprus,Paphos,Culture,Tomb of the Kings (UNESCO site),Uneven walking paths,Yes,85,2250
+Cyprus,Ayia Napa,Modern,Nissi Beach (resort beach),Party areas at night,Yes,95,2250
+Cyprus,Protaras,Photography,Fig Tree Bay (coastal photography),Strong UV exposure,Yes,85,2200
+Cyprus,Troodos,Culture,Kykko Monastery (mountain monastery),Winding mountain roads,Yes,80,2150
+Cyprus,Kyrenia,Photography,Kyrenia Castle (historic castle),Watch for steep steps,Yes,85,2300
+Cyprus,Famagusta,Culture,Othello Castle (medieval site),Limited transport,Yes,80,2250
+Cyprus,Nicosia,Culture,Selimiye Mosque (converted cathedral),Respect for religious sites,Yes,85,2100
+Cyprus,Larnaca,Photography,Finikoudes Beach (seaside promenade),Pickpocketing risk,Yes,80,2150
+Cyprus,Limassol,Modern,My Mall Limassol (shopping mall),High taxi fares,Yes,90,2200
+Cyprus,Paphos,Photography,Paphos Archaeological Park (mosaics),Slippery ancient floors,Yes,85,2250
+Cyprus,Ayia Napa,Photography,Ayia Napa Monastery (cultural site),Noisy evenings,Yes,90,2250
+Cyprus,Troodos,Adventurous,Mount Olympus (hiking),Unpredictable weather,Yes,85,2150
+Cyprus,Kyrenia,Culture,Bellapais Abbey (gothic ruin),Rural navigation,Yes,85,2300
+Cyprus,Famagusta,Modern,Salamis Ruins (ancient city),Minimal signage in English,Yes,80,2250
+Cyprus,Nicosia,Modern,Ledra Street (shopping street),Busy pedestrian zones,Yes,85,2100
+Cyprus,Larnaca,Photography,Hala Sultan Tekke (mosque),Religious decorum,Yes,80,2150
+Cyprus,Limassol,Photography,Limassol Castle (museum),Lack of air conditioning,Yes,85,2200
+Cyprus,Paphos,Modern,Aphrodite Water Park (family activity),Long queues in summer,Yes,90,2250
+Cyprus,Ayia Napa,Adventurous,Sea Caves Cliff Jumping (coastal cliffs),Risk of injury,Yes,95,2250
+Cyprus,Troodos,Photography,Caledonia Waterfalls (nature hike),Slippery trails,Yes,80,2150
+Cyprus,Kyrenia,Modern,Old Harbour (dining area),Crowded during sunset,Yes,85,2300
+Cyprus,Famagusta,Photography,St. Barnabas Monastery (heritage site),Remote location,Yes,80,2250
+Cyprus,Nicosia,Culture,Leventis Municipal Museum (history),No English audio guide,Yes,80,2100
+Cyprus,Larnaca,Culture,Pierides Museum (private collection),Check opening hours,Yes,80,2150
+Cyprus,Limassol,Culture,Kolossi Castle (military fortress),Low ceilings inside,Yes,85,2200
+Cyprus,Paphos,Culture,Agia Kyriaki Chrysopolitissa (ancient church),Quiet area,Yes,85,2250
+Cyprus,Troodos,Culture,UNESCO Painted Churches (Byzantine frescoes),Mountain driving,Yes,85,2150
+Cyprus,Kyrenia,Photography,St. Hilarion Castle (fairytale castle),Cliffside stairs,Yes,90,2300
+Georgia,Tbilisi,Culture,Narikala Fortress (historic citadel),Steep hiking path,No,70,2000
+Georgia,Batumi,Modern,Batumi Boulevard (seaside park),Humidity and heat,No,75,2100
+Georgia,Mtskheta,Photography,Jvari Monastery (hilltop view),Windy summit,No,65,1900
+Georgia,Kutaisi,Adventurous,Martvili Canyon (boat ride),Be cautious near water,No,75,1950
+Georgia,Kazbegi,Photography,Gergeti Trinity Church (mountain view),Cold temperatures,No,75,2050
+Georgia,Gori,Culture,Stalin Museum (historic),Some exhibits lack English,No,65,2000
+Georgia,Sighnaghi,Photography,Great Caucasus Viewpoints (scenic view),Limited transport access,No,70,1950
+Georgia,Borjomi,Modern,Borjomi Central Park (mineral springs),Watch for stray dogs,No,70,2000
+Georgia,Telavi,Culture,Alaverdi Monastery (religious site),Dress code enforced,No,65,2000
+Georgia,Zugdidi,Photography,Zugdidi Botanical Garden (landscape),Mosquitoes,No,65,2050
+Georgia,Rustavi,Modern,Rustavi Auto Park (motorsport venue),Noise levels,No,70,2000
+Georgia,Akhaltsikhe,Culture,Rabat Fortress (cultural complex),Sun exposure,No,70,2050
+India,New Delhi,Culture,Qutub Minar (heritage site),Pollution and traffic,Yes,50,900
+India,Mumbai,Modern,Mumbai Sea Link (infrastructure view),Crowded trains,Yes,55,950
+India,Jaipur,Culture,Amber Fort (palace),Heat and dehydration,Yes,50,950
+India,Agra,Photography,Taj Mahal (monument),High crowd levels,Yes,50,950
+India,Bangalore,Modern,Cubbon Park (urban greenery),Traffic congestion,Yes,55,900
+India,Hyderabad,Culture,Charminar (historic site),Noise pollution,Yes,50,950
+India,Kolkata,Culture,Victoria Memorial (museum),Humidity,Yes,50,950
+India,Chennai,Modern,Marina Beach (urban beach),Sun exposure,Yes,50,950
+India,Varanasi,Culture,Ganga Aarti at Dashashwamedh Ghat (ritual),Riverbank caution,Yes,45,950
+India,Amritsar,Culture,Golden Temple (religious site),Respect religious rules,Yes,50,950
+India,Rishikesh,Adventurous,Ganga River Rafting (water sport),Life jacket essential,Yes,55,950
+India,Leh,Adventurous,Pangong Lake (high-altitude lake),Altitude sickness,Yes,60,1000
+India,Shimla,Photography,Ridge Road Viewpoint (hill station),Hilly terrain,Yes,55,950
+India,Darjeeling,Photography,Tiger Hill (sunrise point),Chilly mornings,Yes,50,950
+India,Udaipur,Culture,City Palace (historic site),Ticket scams,Yes,50,950
+India,Pune,Modern,Aga Khan Palace (heritage site),Limited English signs,Yes,50,900
+India,Aurangabad,Culture,Ajanta Caves (UNESCO site),Slippery rocks,Yes,50,950
+India,Ahmedabad,Culture,Sabarmati Ashram (heritage site),Keep quiet zones,Yes,50,900
+India,Bhopal,Culture,Bharat Bhavan (art & museum),Limited public transit,Yes,50,950
+India,Kochi,Culture,Fort Kochi (colonial streets),Mosquitoes,Yes,50,950
+India,Thiruvananthapuram,Modern,Kovalam Beach (resort area),Rough sea,Yes,55,950
+India,Goa,Modern,Baga Beach (party area),Pickpockets,Yes,60,950
+India,Manali,Adventurous,Solang Valley (snow adventure),Cold climate,Yes,60,950
+India,Rajasthan,Culture,Hawa Mahal (wind palace),Dust and heat,Yes,50,950
+India,Coimbatore,Photography,Marudamalai Temple (hilltop temple),Steep climb,Yes,50,950
+India,Bhubaneswar,Culture,Lingaraja Temple (heritage temple),Religious decorum,Yes,50,950
+India,Chandigarh,Modern,Rock Garden (creative art site),Slippery paths,Yes,50,900
+India,Lucknow,Culture,Bara Imambara (historical monument),No flash photography,Yes,50,950
+India,Mysore,Culture,Mysore Palace (royal palace),Watch belongings,Yes,50,950
+India,Shillong,Photography,Umiam Lake (scenic lake),Remote location,Yes,50,1000
+India,Gangtok,Photography,MG Marg (pedestrian avenue),Weather changes,Yes,55,1000
+Indonesia,Jakarta,modern,"National Monument, Kota Tua, Grand Indonesia Mall",Traffic congestion,No,60,100
+Indonesia,Bali (Denpasar),culture,"Tanah Lot Temple, Ubud Market, Tegallalang Rice Terraces",Crowded during peak season,No,65,100
+Indonesia,Yogyakarta,culture,"Borobudur, Prambanan, Malioboro Street",Scams near tourist zones,No,55,90
+Indonesia,Surabaya,modern,"Heroes Monument, House of Sampoerna, Suramadu Bridge",Heavy traffic,No,60,100
+Indonesia,Bandung,photography,"Tangkuban Perahu, Kawah Putih, Braga Street",Mountain weather change,No,55,90
+Indonesia,Medan,culture,"Maimun Palace, Lake Toba, Grand Mosque",Limited English signage,No,50,100
+Indonesia,Lombok,adventurous,"Mount Rinjani, Pink Beach, Gili Islands",Rough seas during monsoon,No,60,100
+Indonesia,Manado,adventurous,"Bunaken Marine Park, Tumpa Hill, Christ Blessing Statue",Strong sun exposure,No,55,110
+Indonesia,Padang,culture,"Mentawai Islands, Air Manis Beach, Siti Nurbaya Bridge",Tsunami-prone coast,No,50,100
+Indonesia,Semarang,modern,"Lawang Sewu, Sam Poo Kong Temple, Old Town",Unpredictable rain,No,55,90
+Indonesia,Palembang,culture,"Ampera Bridge, Kemaro Island, Sultan Mahmud Badaruddin Mosque",Hot and humid,No,50,100
+Indonesia,Pontianak,photography,"Equator Monument, Kapuas River, Tugu Khatulistiwa",Flooding risk,No,50,100
+Indonesia,Banjarmasin,photography,"Floating Market, Martapura River, Sabilal Muhtadin Mosque",Wet season floods,No,50,110
+Indonesia,Jayapura,adventurous,"Lake Sentani, Base-G Beach, MacArthur Monument",Remote and limited access,No,55,130
+Indonesia,Ambon,culture,"Natsepa Beach, Ambon War Cemetery, Pattimura Monument",Storm-prone during wet season,No,50,120
+Indonesia,Ternate,adventurous,"Gamalama Volcano, Fort Oranje, Batu Angus",Volcanic activity,No,50,120
+Indonesia,Solo (Surakarta),culture,"Keraton Surakarta, Triwindu Market, Mangkunegaran Palace",Cultural protocol,No,50,90
+Indonesia,Balikpapan,modern,"Kemala Beach, Mangrove Forest, Monument Perjuangan Rakyat",Industrial traffic,No,55,100
+Indonesia,Bogor,photography,"Bogor Botanical Gardens, Presidential Palace, JungleLand",Rainy and humid,No,50,80
+Indonesia,Malang,photography,"Mount Bromo, Jodipan Colorful Village, Coban Rondo Waterfall",Cold nights,No,55,90
+Indonesia,Pekanbaru,modern,"An-Nur Grand Mosque, Riau Museum, Siak Bridge",Haze during dry season,No,50,100
+Indonesia,Makassar,culture,"Fort Rotterdam, Losari Beach, Trans Studio",Busy urban roads,No,55,100
+Indonesia,Bitung,adventurous,"Lembeh Strait Diving, Tangkoko Nature Reserve, Pintu Kota",Mosquito risk,No,55,120
+Indonesia,Labuan Bajo,adventurous,"Komodo National Park, Padar Island, Pink Beach",Boat safety,No,60,130
+Indonesia,Palangkaraya,eco,"Sebangau National Park, Orangutan Tours, Kahayan River",Remote jungle access,No,50,110
+Indonesia,Kupang,photography,"Lasiana Beach, Oenesu Waterfall, Crystal Cave",Limited public transport,No,50,120
+Indonesia,Tasikmalaya,culture,"Kampung Naga, Galunggung Volcano, handicrafts village",Seismic activity,No,50,90
+Indonesia,Tarakan,eco,"Tidung Island, Tarakan Mangrove Forest, Amal Beach",Remote location,No,50,120
+Indonesia,Merauke,adventurous,"Wasur National Park, Sota Border, traditional tribes",Remote and sparse facilities,No,50,140
+Indonesia,Samarinda,modern,"Mahakam River, Islamic Center Mosque, Tepian Park",Hot and dry,No,55,100
+Iran,Tehran,modern,"Golestan Palace, Milad Tower, Grand Bazaar",Air pollution in winter,No,60,700
+Iran,Isfahan,culture,"Naqsh-e Jahan Square, Sheikh Lotfollah Mosque, Si-o-se-pol Bridge",Dress conservatively,No,55,700
+Iran,Shiraz,culture,"Persepolis, Nasir al-Mulk Mosque, Eram Garden",Heat in summer,No,55,700
+Iran,Yazd,culture,"Amir Chakhmaq Complex, Windcatchers, Zoroastrian Fire Temple",Dry desert climate,No,50,700
+Iran,Tabriz,culture,"Blue Mosque, Tabriz Historic Bazaar, El Goli Park",Cold winters,No,55,700
+Iran,Kashan,photography,"Fin Garden, Borujerdi House, Agha Bozorg Mosque",Avoid midday heat,No,50,700
+Iran,Kerman,adventurous,"Kaluts Desert, Ganjali Khan Complex, Rayen Castle",Remote desert travel caution,No,50,700
+Iran,Mashhad,culture,"Imam Reza Shrine, Ferdowsi Mausoleum, Bazaar Reza",Religious customs strict,No,55,700
+Iran,Qazvin,culture,"Alamut Castle, Chehel Sotoun Palace, Qajar Bathhouse",Mountain roads,No,50,700
+Iran,Hamedan,culture,"Ganjnameh Inscriptions, Avicenna Mausoleum, Ecbatana Ruins",Chilly at night,No,50,700
+Iran,Rasht,modern,"Gilan Museum, Masuleh Village, Caspian Sea Coast",Rainy and humid,No,55,700
+Iran,Bandar Abbas,adventurous,"Hormuz Island, Bandar Fortress, Persian Gulf Beaches",Hot and humid,No,55,700
+Iran,Qom,culture,"Fatima Masumeh Shrine, Religious Seminaries",Strict dress code,No,50,700
+Iran,Ardabil,culture,"Sheikh Safi al-Din Shrine, Hot Springs",Cold winters,No,50,700
+Iran,Sanandaj,culture,"Kurdish Textile Museum, Abidar Park, Historic Bazaars",Cultural sensitivity advised,No,50,700
+Iran,Ahvaz,modern,"White Bridge, Karun River, Haft Tappeh Ruins",High temperatures,No,55,700
+Iran,Zanjan,photography,"Soltaniyeh Dome, Rakhtshooy Khaneh House Museum",Variable climate,No,50,700
+Iran,Ilam,adventurous,"Zardeh Canyon, Local Mountains, Traditional Villages",Limited infrastructure,No,50,700
+Iran,Bojnurd,photography,"Golestan National Park, Turkmen Villages",Rural road safety,No,50,700
+Iran,Bushehr,modern,"Persian Gulf Waterfront, Historical Port",Very hot summers,No,55,700
+Iraq,Baghdad,culture,"Iraqi Museum, Al-Mutanabbi Street, Abbasid Palace",Check security updates,Yes,60,800
+Iraq,Erbil,culture,"Erbil Citadel, Sami Abdulrahman Park, Kurdish Textile Museum",Regional safety varies,Yes,55,800
+Iraq,Basra,modern,"Shatt al-Arab River, Basra Museum, Corniche",Avoid late-night travel,Yes,55,800
+Iraq,Najaf,culture,"Imam Ali Shrine, Wadi-us-Salaam Cemetery",Dress conservatively,Yes,50,800
+Iraq,Karbala,culture,"Imam Husayn Shrine, Al Abbas Mosque",Large pilgrimage crowds,Yes,50,800
+Iraq,Al-Sulaimaniyah,modern,"Amna Suraka Museum, Azmar Mountain",Political events caution,Yes,55,800
+Iraq,Mosul,photography,"Al-Nuri Mosque, Mosul Museum, Tigris Views",Post-conflict zones,Yes,50,800
+Iraq,Kirkuk,culture,"Kirkuk Citadel, Qishla, Archaeological Sites",Ethnic tensions,Yes,50,800
+Iraq,Halabja,photography,"Martyrs? Monument, Peace Museum",Emotionally intense history,Yes,50,800
+Iraq,Amarah,modern,"Tigris Riverside, Traditional Markets",Limited tourist infrastructure,Yes,50,800
+Iraq,Samawah,culture,"Temple of Nippur, Euphrates Banks",Travel with guide advised,Yes,50,800
+Iraq,Hillah,culture,"Babylon Ruins, Ancient Theaters",Hot daytime heat,Yes,50,800
+Iraq,Fallujah,modern,"Euphrates Viewpoints, Local Mosques",Check security situation,Yes,50,800
+Iraq,Samarra,culture,"Malwiya Tower, Great Mosque",Restricted site access,Yes,50,800
+Iraq,Al-Qurnah,culture,"Confluence of Rivers, Historic Sites",Dusty heat,Yes,50,800
+Iraq,Nasiriyah,photography,"Ziggurat of Ur, Marsh Arab Villages",Desert travel caution,Yes,50,800
+Iraq,Ramadi,modern,"Riverfront Areas, Local History",Security monitoring needed,Yes,50,800
+Iraq,Dhi Qar,culture,"Ancient Sumerian Cities, Local Museums",Limited accommodations,Yes,50,800
+Iraq,Kufa,culture,"Great Mosque, Islamic Heritage Sites",Religious customs apply,Yes,50,800
+Iraq,Ranya,photography,"Lake Dukan, Mountain Landscapes",Seasonal climate variation,Yes,50,800
+Israel,Jerusalem,culture,"Old City, Western Wall, Yad Vashem",Respect religious customs,Yes,85,900
+Israel,Tel Aviv,modern,"Rothschild Blvd, Carmel Market, Beaches",Expensive city,Yes,100,900
+Israel,Haifa,photography,"Bah??? Gardens, Stella Maris, German Colony",Hilly terrain,Yes,80,900
+Israel,Eilat,adventurous,"Red Sea Diving, Coral Beach, Dolphin Reef",Desert heat,Yes,75,900
+Israel,Tiberias,culture,"Sea of Galilee, Hamat Tiberias, Waterfront",Summer heat,Yes,70,900
+Israel,Nazareth,culture,"Basilica of the Annunciation, Mount Precipice",Respect communities,Yes,65,900
+Israel,Acre (Akko),photography,"Crusader Fortress, Templar Tunnels",Coastal winds,Yes,65,900
+Israel,Dead Sea,adventurous,"Floating, Ein Gedi, Masada",Dehydration risk,Yes,80,900
+Israel,Beersheba,modern,"Negev Museum, Bedouin Market",Desert sun exposure,Yes,60,900
+Israel,Netanya,modern,"Cliff Promenade, Independent Square",Crowded summer,Yes,75,900
+Israel,Safed,culture,"Artists? Quarter, Synagogues",Mountain roads,Yes,65,900
+Israel,Ashdod,modern,"Port, Beaches, Arts Center",Subtle coastal vibe,Yes,70,900
+Israel,Rosh Hanikra,photography,"Sea Grottos, Cable Car",Slippery trails,Yes,60,900
+Israel,Herzliya,modern,"Marina, Tech Parks",High cost,Yes,85,900
+Israel,Ra'anana,modern,"Urban Parks, Cafes",Quiet suburbia,Yes,70,900
+Israel,Bethlehem,culture,"Church of the Nativity, Murals",Border crossing issues,Yes,65,900
+Israel,Jaffa,culture,"Old Port, Flea Market, Alleyways",Uneven walking surfaces,Yes,70,900
+Israel,Arad,adventurous,"Negev Desert, Masada Access","Hot days, cold nights",Yes,60,900
+Israel,Holon,modern,"Children?s Museum, Design Museum",Family?friendly,Yes,70,900
+Israel,HaSharon,eco,"Park HaSharon, Coastal Reserves",Conservation rules,Yes,70,900
+Japan,Tokyo,modern,"Tokyo Tower, Shibuya Crossing, Asakusa Temple",Peak-hour train crowding,No,100,700
+Japan,Kyoto,culture,"Fushimi Inari Shrine, Kinkaku-ji, Gion District",Quiet zones at temples,No,95,700
+Japan,Osaka,modern,"Osaka Castle, Dotonbori, Universal Studios Japan",Late-night noise in Dotonbori,No,90,700
+Japan,Hiroshima,culture,"Peace Memorial Park, Miyajima Island",Emotional historical sites,No,85,720
+Japan,Nara,culture,"Todai-ji Temple, Nara Deer Park",Deer can be aggressive,No,80,700
+Japan,Sapporo,adventurous,"Snow Festival, Mount Moiwa, Odori Park",Cold winters,No,85,750
+Japan,Fukuoka,modern,"Canal City, Ohori Park, Fukuoka Castle",Typhoon season,No,80,700
+Japan,Nagoya,modern,"Nagoya Castle, SCMAGLEV Railway Museum",Traffic near tourist areas,No,80,700
+Japan,Nagasaki,culture,"Glover Garden, Peace Park, Dejima",Steep streets,No,80,720
+Japan,Kobe,modern,"Kobe Harborland, Mt. Rokko, Ikuta Shrine",Earthquake-prone area,No,85,710
+Japan,Sendai,culture,"Zuihoden Mausoleum, Aoba Castle",Cold winters,No,75,710
+Japan,Kamakura,culture,"Great Buddha, Hasedera Temple, Beaches",Crowded on weekends,No,70,690
+Japan,Yokohama,modern,"Minato Mirai, Chinatown, Cup Noodles Museum",Urban congestion,No,80,700
+Japan,Hakone,photography,"Lake Ashi, Owakudani, Onsen",Sulfur gas near volcano,No,85,710
+Japan,Nikko,culture,"Toshogu Shrine, Kegon Falls, National Park",Mountain roads,No,75,700
+Japan,Matsumoto,photography,"Matsumoto Castle, Kamikochi Alps",Snowy in winter,No,80,720
+Japan,Kanazawa,culture,"Kenrokuen Garden, 21st Century Museum",Slippery stone paths,No,80,710
+Japan,Takayama,culture,"Old Town, Hida Folk Village, Morning Markets",Remote location,No,80,720
+Japan,Okayama,culture,"Korakuen Garden, Okayama Castle",Limited English signage,No,75,710
+Japan,Matsue,culture,"Matsue Castle, Lake Shinji, Lafcadio Hearn Museum",Quiet rural setting,No,70,720
+Japan,Beppu,adventurous,"Hot Springs (Jigoku Meguri), Mount Tsurumi",Very hot water areas,No,80,720
+Japan,Kagoshima,adventurous,"Sakurajima Volcano, Sengan-en Garden",Volcanic ash warning,No,80,730
+Japan,Miyazaki,photography,"Takachiho Gorge, Udo Shrine",Remote countryside,No,75,730
+Japan,Aomori,culture,"Nebuta Museum, Hirosaki Castle",Heavy snow in winter,No,75,740
+Japan,Kushiro,eco,"Wetlands, Red-Crowned Cranes, Lake Akan",Cold climate,No,70,740
+Japan,Tottori,adventurous,"Tottori Sand Dunes, Sand Museum",Windy dunes,No,70,730
+Japan,Okinawa,adventurous,"Beaches, Shuri Castle, Churaumi Aquarium",Typhoon risk,No,85,750
+Japan,Naha,culture,"Okinawan cuisine, Makishi Market",Humidity in summer,No,80,750
+Japan,Utsunomiya,modern,"Oya Stone Museum, Gyoza Street",Less touristy,No,70,690
+Japan,Shizuoka,photography,"Mount Fuji Views, Miho no Matsubara",Weather affects visibility,No,80,710
+Jordan,Amman,culture,"Roman Theater, Citadel Hill, Rainbow Street",Traffic congestion,Yes,70,650
+Jordan,Petra,adventurous,"Al-Khazneh (The Treasury), Siq Trail, Monastery",Wear good walking shoes,Yes,80,700
+Jordan,Wadi Rum,adventurous,"Desert Safari, Bedouin Camp, Sand Dunes",Extreme temperature shifts,Yes,75,700
+Jordan,Aqaba,modern,"Red Sea Diving, Beach Resorts, Aqaba Castle",Strong sun exposure,Yes,80,720
+Jordan,Jerash,culture,"Roman Ruins, Oval Plaza, Hadrian?s Arch",Dusty conditions,Yes,65,670
+Jordan,Dead Sea,relaxation,"Floating Experience, Spa Resorts, Salt Formations",Do not submerge eyes,Yes,85,720
+Jordan,Madaba,culture,"Mosaic Map Church, Mount Nebo",Respect local customs,Yes,70,670
+Jordan,Irbid,modern,"Yarmouk University, Local Markets",Busy student areas,Yes,60,660
+Jordan,Ajloun,eco,"Ajloun Castle, Forest Reserve",Rural driving conditions,Yes,65,670
+Jordan,Ma?an,culture,"Shobak Castle, Local bazaars",Hot and dry climate,Yes,60,680
+Jordan,Karak,culture,"Karak Castle, Historic Town Center",Steep streets,Yes,65,680
+Jordan,Zarqa,modern,"King Abdullah Mosque, Local Eateries",Urban sprawl,Yes,60,660
+Jordan,Al-Salt,culture,"Old Salt Museum, Ottoman Architecture",Hilly walking,Yes,65,660
+Jordan,Tafilah,nature,"Dana Biosphere Reserve, Hiking Trails",Prepare for remote travel,Yes,70,680
+Jordan,Azraq,nature,"Azraq Wetland Reserve, Desert Castle Loop",Bring water & snacks,Yes,65,670
+Jordan,Al-Mafraq,photography,"Desert Landscapes, Ruins of Umm el-Jimal",Very remote,Yes,60,660
+Jordan,Disi,adventurous,"Wadi Rum Desert Tours, Camel Rides",Sandstorms possible,Yes,70,690
+Jordan,Qasr Amra,culture,"Desert Castle (UNESCO), Frescoes",Remote desert area,Yes,60,670
+Jordan,Himma,nature,"Hot Springs, Nature Spa Retreats",Can be slippery,Yes,75,700
+Jordan,Mujib,nature,"Mujib Nature Reserve, Canyon Hiking",Flash flood risk,Yes,80,710
+Kazakhstan,Almaty,modern,"Medeu Ice Rink, Kok Tobe Hill, Green Bazaar",Air pollution in winter,No,70,620
+Kazakhstan,Astana (Nur-Sultan),modern,"Bayterek Tower, Khan Shatyr, Expo Park",Extreme winter cold,No,75,630
+Kazakhstan,Shymkent,culture,"Regional Museum, Sayram Mausoleum",Traffic congestion,No,65,610
+Kazakhstan,Turkistan,culture,"Khoja Ahmed Yasawi Mausoleum, Historical Town",Hot summers,No,65,620
+Kazakhstan,Aktau,nature,"Caspian Sea Coast, Beaches, Rock Formations",Limited English signs,No,70,640
+Kazakhstan,Atyrau,nature,"Ural River, Imangali Mosque",Can be very windy,No,70,650
+Kazakhstan,Kostanay,culture,"Victory Park, Regional Museum",Quiet city? limited nightlife,No,60,620
+Kazakhstan,Karaganda,culture,"KarLag Museum, Central Park",Cold winters,No,65,630
+Kazakhstan,Semey,history,"Dostoevsky Museum, Abai Museum",Radiation legacy nearby,No,60,620
+Kazakhstan,Kyzylorda,photography,"Syr Darya River, Old Forts",Desert climate,No,60,610
+Kazakhstan,Petropavl,modern,"Central Park, Local Bazaar",Remote location,No,60,620
+Kazakhstan,Taldykorgan,nature,"Zhetysu Park, Mountains nearby",Basic infrastructure,No,65,630
+Kazakhstan,Taraz,culture,"Ancient Tombs, History Museum",Hot and dry in summer,No,60,610
+Kazakhstan,Baikonur,space,"Cosmodrome Museum, Rocket Launch View",Special permit may be required,No,75,660
+Kazakhstan,Ust-Kamenogorsk,nature,"Altai Mountains, Nature Park",Cold winters,No,65,640
+Kazakhstan,Pavlodar,modern,"Embankment, Regional Theater",Cold and windy,No,60,630
+Kazakhstan,Zhezkazgan,adventurous,"Steppe Safaris, Soviet Mining Town",Remote desert area,No,60,650
+Kazakhstan,Kokshetau,nature,"Burabay National Park, Lake Views",Unpredictable weather,No,65,630
+Kazakhstan,Ekibastuz,industrial,"Coal Mining Museum, Lake Zhasybai",Industrial zone,No,60,640
+Kazakhstan,Balkhash,nature,"Lake Balkhash, Fishing, Lakeside Walks",Basic facilities,No,60,640
+Kuwait,Kuwait City,modern,"Kuwait Towers, Grand Mosque, The Avenues Mall",Dress conservatively,Yes,90,680
+Kuwait,Salmiya,modern,"Scientific Center, Marina Crescent, Aquarium",Weekend traffic,Yes,85,680
+Kuwait,Hawalli,modern,"Shopping Streets, Al-Sha'ab Leisure Park",Busy during evenings,Yes,80,670
+Kuwait,Fahaheel,shopping,"Al Kout Mall, Fish Market, Marina",Can get crowded,Yes,80,670
+Kuwait,Failaka Island,history,"Greek Ruins, War Museum, Beach Activities",Ferry schedule changes,Yes,85,690
+Kuwait,Ahmadi,industrial,"Oil Exhibition, Green Spaces",Limited tourist services,Yes,75,660
+Kuwait,Al Jahra,culture,"Red Fort, Camel Racing, Desert Scenery",Remote desert area,Yes,70,670
+Kuwait,Al Qurain,history,"Al Qurain Martyrs' House, Local Culture",Sensitive war history,Yes,70,670
+Kuwait,Shuwaikh,modern,"Port Area, Education City, Industrial Museums",Commercial zone,Yes,75,660
+Kuwait,Abu Halifa,relaxation,"Beach Access, Resorts",Hot during daytime,Yes,80,670
+Kuwait,Al Farwaniyah,urban,"Zoo, Shopping Centers",Urban congestion,Yes,75,660
+Kuwait,Mangaf,relaxation,"Coastal Views, Hotels, Caf?s",Heat and humidity,Yes,80,670
+Kuwait,Subiyah,future,"Silk City Project Area, Desert Drive",Project under development,Yes,70,680
+Kuwait,Mubarak Al-Kabeer,urban,"Parks, Suburban Cafes",Quiet residential feel,Yes,70,660
+Kuwait,Al Wafrah,eco,"Farms, Agricultural Fields",Very rural,Yes,65,660
+Kuwait,Bubiyan Island,nature,"Wetlands, Bird Watching",Restricted access areas,Yes,75,690
+Kuwait,Egaila,beach,"Egaila Beach Park, Walkways",Sunburn risk,Yes,80,670
+Kuwait,Khiran,beach,"Chalets, Water Activities",Book in advance,Yes,85,680
+Kuwait,Sabah Al Salem,urban,"Shopping Streets, Restaurants",Weekend crowd,Yes,75,670
+Kuwait,Adailiya,culture,"Mosques, Local Culture Centers",Quiet and conservative,Yes,70,660
+Kyrgyzstan,Bishkek,modern,"Ala-Too Square, Osh Bazaar, State History Museum",Pickpocketing in markets,No,60,650
+Kyrgyzstan,Osh,culture,"Sulaiman-Too Sacred Mountain, Jayma Bazaar",Hilly terrain,No,55,640
+Kyrgyzstan,Karakol,adventurous,"Trekking Trails, Dungan Mosque, Karakol Gorge",Cold nights even in summer,No,60,660
+Kyrgyzstan,Cholpon-Ata,relaxation,"Issyk-Kul Lake, Petroglyphs Open-Air Museum",Sunburn risk near lake,No,65,660
+Kyrgyzstan,Naryn,adventurous,"Tash Rabat Caravanserai, Mountainscape Drives",Remote travel conditions,No,55,670
+Kyrgyzstan,Tokmok,history,"Burana Tower, Historical Museum",Limited tourist facilities,No,50,650
+Kyrgyzstan,Talas,culture,"Manas Ordo Complex, Local Markets","Quiet town, limited transport",No,50,660
+Kyrgyzstan,Jalal-Abad,nature,"Thermal Springs, Arslanbob Forest",Mountain roads,No,55,670
+Kyrgyzstan,Balykchy,photography,"Issyk-Kul Lake Views, Rail Station",Basic services only,No,50,650
+Kyrgyzstan,Kochkor,culture,"Craft Shops, Yurt-Making Workshops",Cool evenings,No,50,660
+Kyrgyzstan,Batken,nature,"Mountain Valleys, Apricot Orchards",Very remote area,No,55,670
+Kyrgyzstan,Kyzyl-Oi,adventurous,"Horseback Riding, River Views",Unpaved roads,No,55,680
+Kyrgyzstan,Tamga,relaxation,"Beach on Issyk-Kul Lake, Rock Carvings",Limited medical services,No,50,670
+Kyrgyzstan,Sary-Tash,adventurous,"Pamir Highway, Mountain Pass Views",High altitude sickness,No,60,690
+Kyrgyzstan,At-Bashy,nature,"Nomadic Villages, Mountain Views",Cold in off-season,No,50,680
+Kyrgyzstan,Arslanbob,nature,"Walnut Forest, Hiking Trails",Steep paths,No,55,670
+Kyrgyzstan,Kemin,nature,"Kemin Valley, Hiking and Wildlife",Weather changes quickly,No,50,660
+Kyrgyzstan,Chon-Kemin,nature,"Horseback Riding, Eco-Tourism Camps","No ATM access, bring cash",No,50,660
+Kyrgyzstan,Tash-Kumyr,culture,"Local Life, Soviet-Era Structures",Very few tourists,No,50,660
+Kyrgyzstan,Isfana,culture,"Border Town Culture, Traditional Cuisine",Remote and basic facilities,No,50,680
+Laos,Luang Prabang,culture,"Wat Xieng Thong, Kuang Si Falls, Night Market",Respect temple etiquette,No,55,300
+Laos,Vientiane,culture,"Patuxai Monument, Pha That Luang, Mekong Riverfront",Watch for pickpockets,No,50,290
+Laos,Vang Vieng,adventurous,"Tubing, Blue Lagoon, Cave Exploring",Party culture,No,45,280
+Laos,Pakse,nature,"Bolaven Plateau, Waterfalls, Coffee Plantations",Remote roads,No,50,300
+Laos,Muang Ngoi,nature,"River Views, Hiking Trails, Caves",Limited electricity,No,40,310
+Laos,Nong Khiaw,nature,"Viewpoints, Boat Trips, Trekking",Basic infrastructure,No,45,310
+Laos,Phonsavan,history,"Plain of Jars, War Memorial Sites",Unexploded ordnance warning,No,50,320
+Laos,Huay Xai,adventurous,"Gibbon Experience, Mekong Cruises",Remote jungle treks,No,50,300
+Laos,Thakhek,adventurous,"Loop Ride, Kong Lor Cave",Motorbike caution,No,45,310
+Laos,Champasak,culture,"Wat Phou Temple, Mekong Riverside",Hot afternoons,No,50,300
+Laos,Don Det,relaxation,"4000 Islands, Waterfalls, Kayaking",Mosquitoes in evening,No,45,320
+Laos,Muang La,eco,"Hot Springs, Community-based Lodges",Limited transport access,No,55,330
+Laos,Xam Neua,culture,"Viengxay Caves, Hill Tribe Villages",Very remote,No,45,330
+Laos,Pakbeng,stopover,"River Stop, Local Markets",Limited ATMs,No,45,310
+Laos,Luang Namtha,nature,"Eco-Trekking, Hill Tribe Experience",Respect rural customs,No,50,320
+Laos,Muang Sing,culture,"Border Market, Traditional Villages",Language barriers,No,45,320
+Laos,Salavan,nature,"Tad Lo Waterfall, Ethnic Diversity",Rural roads,No,45,330
+Laos,Savannakhet,culture,"Colonial Architecture, Dinosaur Museum",Very laid-back pace,No,50,310
+Laos,Xayaboury,nature,"Elephant Conservation Center, Hills",Limited internet,No,50,320
+Laos,Bokeo,eco,"Nature Reserve, Jungle Trekking",Wildlife safety,No,50,320
+Lebanon,Beirut,modern,"National Museum, Zaitunay Bay, Hamra Street",Watch for petty crime,Yes,70,610
+Lebanon,Byblos,history,"Ancient Port, Crusader Castle, Old Souks",Uneven walking paths,Yes,65,620
+Lebanon,Baalbek,history,"Roman Temples, Archaeological Sites",Respect local customs,Yes,65,630
+Lebanon,Tripoli,culture,"Citadel of Raymond de Saint-Gilles, Traditional Soap Market",Be cautious at night,Yes,60,620
+Lebanon,Tyre,history,"Roman Hippodrome, Sea Port Ruins",Hot weather in summer,Yes,60,630
+Lebanon,Jeita,nature,"Jeita Grotto, Cable Car Rides","Slippery caves, wear good shoes",Yes,60,620
+Lebanon,Zahle,culture,"Wine Tasting, Berdawni Promenade",Alcohol rules vary,Yes,60,610
+Lebanon,Sidon,history,"Sea Castle, Khan al-Franj, Markets",Traffic congestion,Yes,60,620
+Lebanon,Faraya,adventurous,"Ski Resorts, Mountain Scenery",Cold winters,Yes,75,640
+Lebanon,Ehden,nature,"Ehden Nature Reserve, Hiking Trails",Limited public transport,Yes,65,630
+Lebanon,Deir el Qamar,history,"Palaces, Old Churches, Mountain Views",Steep roads,Yes,60,620
+Lebanon,Bcharr?,culture,"Gibran Museum, Cedars Forest",Winding mountain roads,Yes,60,630
+Lebanon,Anjar,history,"Umayyad Ruins, Historical Sites",Sun exposure,Yes,60,620
+Lebanon,Beit ed-Dine,culture,"Beit ed-Dine Palace, Summer Festivals",Limited shops nearby,Yes,60,620
+Lebanon,Broummana,relaxation,"Mountain Retreats, Cafes",Busy during summer,Yes,65,630
+Lebanon,Jounieh,modern,"Cable Car, Coastal Views, Casino du Liban",Traffic and noise,Yes,65,630
+Lebanon,Naqoura,nature,"Coastal Cliffs, Blue Water Beaches",Border zone?check safety,Yes,60,640
+Lebanon,Tannourine,nature,"Cedar Forest, Hiking",Remote location,Yes,60,630
+Lebanon,Chouf Mountains,nature,"Scenic Drives, Wildlife Reserves",Drive with care,Yes,65,640
+Lebanon,Maaser el Chouf,nature,"Eco-lodges, Cedar Trails",Cold in winter,Yes,60,630
+Malaysia,Kuala Lumpur,modern,"Petronas Twin Towers, Bukit Bintang, Batu Caves",Traffic congestion,No,70,0
+Malaysia,George Town,culture,"Street Art, Kek Lok Si Temple, Colonial Architecture",Hot afternoons,No,60,0
+Malaysia,Langkawi,relaxation,"Sky Bridge, Island Hopping, Duty-Free Shopping",Jellyfish in sea,No,65,0
+Malaysia,Melaka,history,"Jonker Street, A Famosa Fort, River Cruise",Crowded weekends,No,55,0
+Malaysia,Kota Kinabalu,adventurous,"Mount Kinabalu, Tunku Abdul Rahman Park, Gaya Street",Weather changes quickly,No,65,0
+Malaysia,Kuching,culture,"Sarawak Cultural Village, Cat Museum, River Walk",Respect local customs,No,60,0
+Malaysia,Ipoh,modern,"Concubine Lane, Cave Temples, Food Trail",Slippery cave floors,No,55,0
+Malaysia,Cameron Highlands,nature,"Tea Plantations, Mossy Forest, Strawberry Farms",Cool & wet climate,No,60,0
+Malaysia,Genting Highlands,relaxation,"Theme Parks, Casino, Cable Car",Crowds on weekends,No,65,0
+Malaysia,Putrajaya,modern,"Pink Mosque, Botanical Gardens, Architecture",Very hot in daytime,No,60,0
+Malaysia,Johor Bahru,modern,"Legoland, Shopping Malls, Istana Garden",Border traffic,No,55,0
+Malaysia,Taman Negara,adventurous,"Canopy Walkway, Jungle Trekking, Wildlife",Leeches during hikes,No,50,0
+Malaysia,Tawau,nature,"Hiking Trails, Cocoa Village, Waterfalls",Rural facilities,No,55,0
+Malaysia,Sandakan,nature,"Sepilok Orangutan Centre, Turtle Islands, Rainforest",Mosquitoes,No,60,0
+Malaysia,Lahad Datu,eco,"Danum Valley, Rainforest Lodges",Remote and humid,No,60,0
+Malaysia,Semporna,beach,"Bohey Dulang, Mabul Island, Snorkeling",Strong sun exposure,No,65,0
+Malaysia,Miri,culture,"Niah Caves, Petroleum Museum, Beaches",Remote cave paths,No,60,0
+Malaysia,Bintulu,nature,"Similajau National Park, Tumbina Park",Hot & humid,No,55,0
+Malaysia,Kuala Terengganu,beach,"Crystal Mosque, Redang Island Access",Observe dress code,No,60,0
+Malaysia,Kuantan,beach,"Teluk Cempedak, Sungai Pandan Falls, Mosque",Monsoon season,No,55,0
+Malaysia,Alor Setar,culture,"Zahir Mosque, Paddy Fields, State Museum",Limited nightlife,No,50,0
+Malaysia,Kangar,culture,"Gua Kelam, State Gallery, Paddy Fields",Quiet town,No,50,0
+Malaysia,Kuala Kangsar,history,"Ubudiah Mosque, Royal Museum, Palace",Small town vibes,No,50,0
+Malaysia,Port Dickson,beach,"Beaches, Army Museum, Resorts",Crowds during holidays,No,55,0
+Malaysia,Seremban,modern,"Food Scene, Lake Gardens, Cultural Complex",Hot midday sun,No,50,0
+Malaysia,Taiping,nature,"Lake Gardens, Zoo, Maxwell Hill",Rainy often,No,55,0
+Malaysia,Labuan,island,"Duty-Free Shopping, Peace Park, Chimney Museum",Island transport,No,55,0
+Malaysia,Puteri Harbour,modern,"Hello Kitty Town, Marina Walk, Family Attractions",Weekend traffic,No,55,0
+Malaysia,Bukit Fraser,nature,"Cool Weather, Bird Watching, Trails",Foggy roads,No,50,0
+Malaysia,Janda Baik,nature,"Retreats, Streams, Hikes",Limited phone signal,No,55,0
+Malaysia,Tasik Kenyir,nature,"Freshwater Lake, Houseboats, Fishing",Remote access,No,55,0
+Malaysia,Pulau Pangkor,beach,"Beaches, Dutch Fort, Hornbills",Peak season crowds,No,55,0
+Malaysia,Pulau Tioman,beach,"Diving, Marine Life, Jungle Trek",Boat ride required,No,60,0
+Malaysia,Pulau Perhentian,beach,"Snorkeling, Coral Reefs, Chill Vibes",Monsoon closure (Nov-Feb),No,60,0
+Malaysia,Pulau Kapas,beach,"Quiet Island, Soft Sand, Budget Resorts",No ATMs? bring cash,No,55,0
+Malaysia,Bukit Tinggi,culture,"Colmar Tropicale, Japanese Garden",Cool but touristy,No,55,0
+Malaysia,Gua Musang,nature,"Caves, Limestone Hills, Waterfalls",Leech risk in jungle,No,50,0
+Malaysia,Beruas,history,"Ancient Tombstones, Heritage Museum",Very small town,No,50,0
+Malaysia,Pulau Lang Tengah,beach,"Island Getaway, Diving Spots, Clear Waters",Limited transport,No,60,0
+Malaysia,Pulau Rawa,beach,"Luxury Island, White Sand, Snorkeling",Book early,No,65,0
+Malaysia,Pulau Sibu,beach,"Secluded Beaches, Marine Activities",Basic infrastructure,No,55,0
+Malaysia,Teluk Intan,history,"Leaning Clock Tower, Heritage Town",Heat and humidity,No,50,0
+Malaysia,Kemaman,culture,"Fishing Village, Seafood, Beaches",Quiet at night,No,50,0
+Malaysia,Bagan Datuk,nature,"Fishing Villages, Sunset Views","Remote, No major hotels",No,50,0
+Malaysia,Mersing,beach,"Island Gateway, Riverside Town",Monsoon ferry delays,No,50,0
+Malaysia,Batu Pahat,modern,"Shopping Malls, Food Trail, Parks",Warm weather,No,50,0
+Malaysia,Kulim,modern,"Parks, Industrial Tours, Waterfalls",Less touristy,No,50,0
+Malaysia,Pengkalan Hulu,nature,"Elephant Observation, Jungle Area",Basic amenities,No,50,0
+Malaysia,Kuala Selangor,nature,"Fireflies Tour, Sky Mirror, Nature Park",Check tidal schedules,No,55,0
+Malaysia,Sabak Bernam,culture,"Homestays, Paddy Farming",Rural lifestyle,No,50,0
+Maldives,Male,culture,"Grand Friday Mosque, National Museum, Fish Market",Crowded in peak hours,No,150,1200
+Maldives,Maafushi,adventurous,"Maafushi Water Sports Center (snorkeling and diving center), Bikini Beach",Strong sun,No,130,1200
+Maldives,Addu City,photography,"Gan Island (island with aerial views), British Loyalty Shipwreck (diving site)",Diving safety required,No,140,1200
+Maldives,Thulusdhoo,adventurous,"Cokes Surf Break (surfing spot), Coral Garden Snorkeling (reef snorkeling area)",Watch out for currents,No,120,1200
+Maldives,Hulhumale,modern,"Hulhumale Beach, Central Park",Urban development ongoing,No,130,1200
+Maldives,Fuvahmulah,photography,"Tiger Shark Diving (diving site), Thoondu Beach (white pebble beach)",Experienced divers only,No,140,1200
+Maldives,Villimale,culture,"Villimale Island (local lifestyle island), Eco Dive Center (coral conservation center)",Respect local customs,No,120,1200
+Maldives,Dhigurah,adventurous,"Whale Shark Snorkeling (guided tour area), Long Beach",Follow boat safety rules,No,130,1200
+Maldives,Baa Atoll,photography,"Hanifaru Bay (manta ray aggregation site), Coral Reefs (underwater reef area)",Marine protection rules apply,No,150,1200
+Maldives,Ukulhas,culture,"Ukulhas Village (eco-friendly village), Ukulhas Beach",Respect environment,No,120,1200
+Maldives,Rasdhoo,adventurous,"Hammerhead Shark Point (diving site), Madivaru Corner (reef wall dive)",Strong currents,No,130,1200
+Maldives,Ari Atoll,photography,"Maaya Thila (night diving site), Fesdu Wreck (sunken ship photography)",Night dive precautions,No,150,1200
+Maldives,Vaavu Atoll,adventurous,"Alimatha Night Dive (nurse shark dive), Fotteyo Kandu (colorful coral canyon)",Diving safety protocols,No,140,1200
+Maldives,Meemu Atoll,photography,"Muli Island (drone photography spot), Shark Diving Site (reef sharks)",Diving certifications required,No,135,1200
+Maldives,Lhaviyani Atoll,adventurous,"Kuredu Express (current drift dive), Shipyard Wrecks (sunken ship diving)",Drift dive experience needed,No,140,1200
+Maldives,Noonu Atoll,photography,"Orimas Thila (shark reef photography), Kudafunafaru Island (aerial photography island)",Remote access,No,150,1200
+Maldives,Shaviyani Atoll,adventurous,"Big Blue (deep diving site), Coral Walls (colorful coral wall dives)",Deep dive certifications needed,No,140,1200
+Maldives,Haa Alif Atoll,photography,"Utheemu Ganduvaru (historic palace), Dhidhdhoo Island (drone island photography)",Respect historic sites,No,145,1200
+Maldives,Haa Dhaalu Atoll,culture,"Hanimaadhoo Island (local village), Baarah Island (historic coral stone mosque)",Respect local customs,No,140,1200
+Maldives,Gnaviyani Atoll,photography,"Fuvahmulah Island (unique single-island atoll), Fuvahmulah Harbor (harbor photography)",Limited tourist facilities,No,140,1200
+Maldives,Kudadoo,modern,"Kudadoo Private Island (luxury resort), Overwater Villas (exclusive accommodations)",Very high cost,No,300,1200
+Maldives,Soneva Fushi,modern,"Soneva Fushi Resort (sustainable luxury resort), Private Cinema (island movie experience)",Very high cost,No,350,1200
+Maldives,Milaidhoo,modern,"Milaidhoo Island (luxury boutique resort), Private Beaches",Luxury stay,No,320,1200
+Maldives,Baros,modern,"Baros Island (exclusive overwater villas), Reef Snorkeling (house reef)",Luxury stay,No,300,1200
+Maldives,Komandoo,modern,"Komandoo Island Resort (adults-only resort), House Reef (easy snorkeling access)",Limited for families,No,280,1200
+Maldives,Niyama,modern,"Niyama Private Islands (luxury twin-island resort), Subsix (underwater nightclub)",Luxury budget required,No,350,1200
+Maldives,Sun Island,adventurous,"Sun Island Resort (all-inclusive resort activities), Diving Center",Coral reef protection rules apply,No,200,1200
+Maldives,Kihaadhoo,photography,"Kihaadhoo Island (secluded beach photography), Hanifaru Bay nearby (manta snorkel)",Marine protected area rules,No,150,1200
+Maldives,Thoddoo,culture,"Thoddoo Island (local farming community), Public Beaches (cultural zones)",Respect local dress codes,No,120,1200
+Maldives,Kandolhu,modern,"Kandolhu Island (exclusive luxury villas), Coral House Reef",High-end property,No,320,1200
+Maldives,Bandos,modern,"Bandos Resort (family friendly resort), Diving Academy (certified dive school)",Busy Resorts,No,220,1200
+Mongolia,Ulaanbaatar,culture,"Gandan Monastery (temple), Sukhbaatar Square (shopping area), National Museum",Urban traffic and air pollution,No,70,850
+Mongolia,Erdenet,modern,"Erdenet Mining Museum (industry display), Soviet Architecture",Industrial zone,No,65,850
+Mongolia,Darkhan,culture,"Friendship Park, Darkhan Museum (local heritage)",Urban outskirts can be dusty,No,60,850
+Mongolia,Kharkhorin,culture,"Erdene Zuu Monastery (temple), Orkhon Valley (UNESCO heritage)",Cold nights, No,55,850
+Mongolia,Dalanzadgad,adventurous,"Yolyn Am (valley hike), Gobi Gurvansaikhan National Park (desert wildlife)",Sandstorms,No,60,850
+Mongolia,Murun,photography,"Lake Kh??vsg??l (blue lake), Deer Stones (ancient carvings)",Cold winds, No,55,850
+Mongolia,Choibalsan,culture,"WWII Memorials, Steppe Scenery (historic plains)",Sparse amenities, No,50,850
+Mongolia,Zuunmod,culture,"Manzushir Monastery (wooded temple complex), Bogd Khan Nature Reserve",Wild animals in nature zones,No,55,850
+Mongolia,Bayankhongor,adventurous,"Shargaljuut Hot Springs (natural spa), Local Museum (regional heritage)",Hot during day,No,50,850
+Mongolia,Arvaikheer,culture,"Local Horse Culture Festivals, Steppe Museum",Dust storms in dry months,No,50,850
+Mongolia,Tsetserleg,culture,"Zayain Gegeen Monastery (religious history), Cultural Museum (regional artifacts)",Quiet town,No,55,850
+Mongolia,Bulgan,photography,"Forest-Steppe Trails (nature walk), Bulgan History Museum",Ticks in forested areas,No,55,850
+Mongolia,Altai,adventurous,"Eej Khairkhan Mountain (sacred site), Local Markets",Altitude sickness possible,No,50,850
+Mongolia,Ulgii,culture,"Altai Tavan Bogd (mountain park), Eagle Festival (cultural event)",Remote access,No,55,850
+Mongolia,Baruun-Urt,photography,"Steppe Grasslands (sunset shots), Quiet Town Streets (local life capture)",Basic facilities only,No,50,850
+Mongolia,Sainshand,culture,"Khamariin Khiid Monastery (spiritual retreat), Energy Center (desert meditation site)",Very dry climate,No,50,850
+Mongolia,Choyr,photography,"Steppe Landscapes (open horizon photography), Train Station Area (Soviet-era views)",Limited local transport,No,45,850
+Mongolia,Mandalgovi,adventurous,"Ikh Gazriin Chuluu (granite rock formations), Central Desert Trekking",Remote desert area,No,50,850
+Mongolia,Olgii,culture,"Uvs Lake (ethnic cultural region), Town Market (Kazakh local culture)",Strong winds in open areas,No,55,850
+Mongolia,Choir,modern,"Local Markets, Rail Hub Stop (train travel views)",Minimal urban facilities,No,45,850
+Mongolia,Tosontsengel,photography,"Ider River Valley (landscape photography), Wooden Bridges",Cold in evenings,No,50,850
+Mongolia,Zavkhan,adventurous,"Otgon Tenger Mountain (hiking), Sand Dunes Trek",Unpredictable weather,No,55,850
+Mongolia,Tuv,culture,"Bogd Khan National Park (historic nature zone), Meditation Retreats",Remote monasteries,No,50,850
+Mongolia,Khentii,adventurous,"Birthplace of Genghis Khan, Baldan Bereeven Monastery (ruins)",Bumpy roads,No,55,850
+Mongolia,Bayandelger,photography,"Open Steppe Landscapes, Nomadic Tents (ger photography)",Windy and remote,No,45,850
+Mongolia,Sharkh,adventurous,"Sandboarding in Mini Gobi, Desert Village",No paved roads,No,50,850
+Mongolia,Toson Hulst,culture,"Salt Lakes (scenic & spiritual), Local Villages",High salt in air,No,50,850
+Mongolia,Orkhon,photography,"Orkhon Waterfall (nature shot), River Valley Views",No signal zones,No,50,850
+Mongolia,Khujirt,culture,"Hot Springs Resort, Healing Retreats",Basic lodging,No,55,850
+Mongolia,Bayan-Ovoo,adventurous,"Dinosaur Fossil Sites, Fossil Museum",Hot in midday,No,55,850
+Myanmar,Yangon,culture,"Shwedagon Pagoda (Buddhist temple), Bogyoke Aung San Market (historic market), Sule Pagoda (city landmark)",Crowded around pagodas,Yes,100,900
+Myanmar,Mandalay,culture,"Mandalay Palace (royal palace), U Bein Bridge (historic teak bridge), Mahamuni Buddha Temple (sacred shrine)",Strong sun at bridge,Yes,90,900
+Myanmar,Bagan,culture,"Bagan Archaeological Zone (temple plains), Ananda Temple (landmark temple), Shwezigon Pagoda (historic pagoda)",Dust at sunrise,Yes,85,900
+Myanmar,Naypyidaw,modern,"Naypyidaw Parliament (government complex), Uppatasanti Pagoda (replica of Shwedagon)",Remote capital city,Yes,80,900
+Myanmar,Inle Lake,photography,"Inle Lake (floating villages and stilt houses), Phaung Daw Oo Pagoda (golden pagoda)",Mosquitoes near lake,Yes,95,900
+Myanmar,Ngapali,adventurous,"Ngapali Beach (tropical beach), Thandwe Market (local market)",Strong sun & sea currents,Yes,110,900
+Myanmar,Taunggyi,culture,"Taunggyi Balloon Festival (annual event), Kakku Pagodas (ancient stupas)",High altitude,Yes,85,900
+Myanmar,Chaungtha,adventurous,"Chaungtha Beach (surfing beach), Turtle Rearing Farm (conservation site)",Jellyfish season,Yes,90,900
+Myanmar,Hsipaw,adventurous,"Hsipaw Trekking (hill tribe trails), Bawgyo Waterfall (nature hike)",Slippery trails,Yes,80,900
+Myanmar,Monywa,photography,"Thanboddhay Pagoda (decorative pagoda), Hpo Win Daung Caves (Buddhist cave temples)",Dusty terrain,Yes,75,900
+Myanmar,Mawlamyine,culture,"Kyaikthanlan Pagoda (hilltop temple), Mon State Cultural Museum",Rainy-season floods,Yes,80,900
+Myanmar,Kyaiktiyo,culture,Golden Rock (mountaintop shrine),Steep climb for elderly,Yes,85,900
+Myanmar,Chin State,photography,"Mindat Hill (hill tribe photography), Chin Tribal Villages (cultural photography)",Remote & limited transport,Yes,75,900
+Myanmar,Pyin Oo Lwin,photography,"Pyin Oo Lwin Botanical Gardens (flower photography), Peik Chin Myaung Cave (cave temple)",Cool evenings,Yes,85,900
+Myanmar,Hpa-An,adventurous,"Mount Zwegabin (summit hike), Sadan Cave (river cave)",Steep hikes,Yes,80,900
+Myanmar,Kalaw,adventurous,"Kalaw Trekking (hill tribe trails), Pine Hill Viewpoint",Cold mornings,Yes,75,900
+Myanmar,Pindaya,photography,"Pindaya Caves (thousands of Buddha images), Lake Pone Taloke (scenic lake)",Slippery cave floors,Yes,80,900
+Myanmar,Pathein,culture,"Pathein Umbrella Workshop (craft tours), Shwemokhtaw Pagoda",Hot midday sun,Yes,80,900
+Myanmar,Dawei,adventurous,"Dawei Beach (untouched beach), Myeik Archipelago (island tours)",Limited facilities,Yes,95,900
+Myanmar,Salay,culture,"Salay Monastery (19th???century monastery), Bawbawgyi Stupa",Remote heritage site,Yes,75,900
+Myanmar,Sittwe,culture,"Sittwe Beach (Bay of Bengal), Maha Pannya Jota Pagoda",Monsoon season,Yes,90,900
+Myanmar,Putao,adventurous,"Putao Trekking (mountain treks), Hkakabo Razi Base Camp (remote hikes)",Altitude & logistics,Yes,100,900
+Myanmar,Magwe,photography,"Magwe Bridge (river view), Minhla Fort (historic ruins)",Scorching sun,Yes,80,900
+Myanmar,Mrauk U,culture,"Mrauk U Pagoda Complex (temple ruins), Local workshops",Remote access,Yes,85,900
+Myanmar,Pyay,culture,"Shwesandaw Pagoda (river???hill pagoda), Thayekhittaya Caves",Rustic roads,Yes,75,900
+Myanmar,Loikaw,photography,"Loikaw Market (cultural photography), Padaung Villages (neck???ring tribes)",Cultural sensitivity,Yes,80,900
+Myanmar,Myitkyina,adventurous,"Myitkyina Trekking (river landscapes), Indawgyi Lake (freshwater lake)",Malaria risk,Yes,90,900
+Myanmar,Tachileik,modern,"Tachileik Border Market, Burmese???Thai Friendship Bridge",Cross???border currency issues,Yes,85,900
+Myanmar,Kengtung,photography,"Kengtung Market (hill tribe market), Inma Lake (town lake photography)",Remote region,Yes,80,900
+Myanmar,Lashio,adventurous,"Lashio Railway Station (historic rail photography), Hsenwi Trails",Bumpy roads,Yes,80,900
+Myanmar,Pyawbwe,culture,Kyaukse Pagoda Hill (Burmese pagoda site),Dusty climb,Yes,75,900
+Myanmar,Popa,photography,"Mount Popa (volcanic pilgrimage site), Taung Kalat Temple (mountain temple)",Monkeys around temple,Yes,80,900
+Myanmar,Ywangan,adventurous,"Ywangan hills (hiking terrain), Shan villages (cultural trek)",Remote and cold,Yes,85,900
+Myanmar,Shwebo,culture,"Shwebo ancient city (royal ruins), Parinitaung Pagoda",Hot daytime temps,Yes,75,900
+Myanmar,Htaukkyant,modern,Htaukkyant War Cemetery (historic WWII site),Outside city,Yes,80,900
+Myanmar,Hopong,photography,"Hopong Hills (landscape photography), Local rice terraces",Slippery during rains,Yes,80,900
+Myanmar,ZeeBoun,adventurous,"ZeeBoun gorge (river gorge hike), Local suspension bridge",Remote hikes,Yes,85,900
+Myanmar,Kyaukme,photography,"Kyaukme Railway Station (colonial era), Shan Hills (hill photography)",Cold mornings,Yes,80,900
+Myanmar,Mone, culture,"Mone Township Pagoda (village pagoda), Local Mon costumes",Traditional etiquette,Yes,75,900
+Nepal,Kathmandu,culture,"Boudhanath Stupa (largest Tibetan Buddhist stupa), Pashupatinath Temple (Hindu temple), Thamel (tourist district)",Sep high traffic in Thamel,Yes,90,850
+Nepal,Pokhara,adventurous,"Fewa Lake (boating and mountain views), Sarangkot Sunrise Point",Altitude effects,Yes,100,850
+Nepal,Chitwan,photography,"Chitwan National Park (wildlife safari), Rapti River (riverbank wildlife)",Mosquitoes,Yes,95,850
+Nepal,Lumbini,culture,"Lumbini Sacred Garden (birthplace of Buddha), Maya Devi Temple",Crowds on pilgrimage days,Yes,85,850
+Nepal,Bhaktapur,culture,"Bhaktapur Durbar Square (medieval palace square), Nyatapola Temple",Slippery stone steps,Yes,80,850
+Nepal,Janakpur,modern,"Janaki Temple (Hindu shrine), Ram Sita Pond",Summer heat,Yes,75,850
+Nepal,Pokhara,photography,"Devis Fall (waterfall), Davis??? Falls",Slippery edge,Yes,100,850
+Nepal,Nuwakot,culture,"Nuwakot Durbar (historic palace), Hilltop views",Steep climb,Yes,80,850
+Nepal,Bharatpur,modern,"Bird Watching Tower (wetland reserve), Seti River Viewpoint",Monsoon flooding,Yes,85,850
+Nepal,Il??m,photography,"Il??m Tea Gardens (tea plantation views), Mechi Bridge",Remote roads,Yes,90,850
+Nepal,Kathmandu,photography,"Garden of Dreams (historic garden), Swayambhunath (Monkey Temple)",Crowds at sunset,Yes,90,850
+Nepal,Panauti,culture,"Panauti Temple Square (ancient Newar town), Indreshwar Mahadev Temple",Narrow roads,Yes,75,850
+Nepal,Mustang,adventurous,"Upper Mustang Trekking (desert mountain trails), Lo Manthang (walled city)",Permits required,Yes,110,850
+Nepal,Jomsom,adventurous,"Jomsom Trekking Base (trail hub), Dhampus Viewpoint",High altitude,Yes,105,850
+Nepal,Syangja,photography,"Syangja Viewpoint (himalayan panorama), Kaligandaki River Gorge",Remote transport,Yes,90,850
+Nepal,Tansen,culture,"Tansen Old Town (hill town heritage), Palpa Durbar",Hilly roads,Yes,85,850
+Nepal,Manakamana,adventurous,Manakamana Cable Car (hilltop temple access),Crowded weekends,Yes,80,850
+Nepal,Ghandruk,photography,"Ghandruk Village (himalayan view trekking), Gurung Culture Museum",Steep trails,Yes,90,850
+Nepal,Bhairahawa,modern,"Lumbini International Airport (gateway city), Rupandehi Museum",Budget infrastructure,Yes,80,850
+Nepal,Dharan,modern,"Dharan Hill (panoramic viewpoint), Bhedetar View Tower",Hilly commute,Yes,85,850
+Nepal,Dhangadhi,modern,"Dhangadhi Airport (brief stopover city), Seti Riverbank",Grassland dust,Yes,75,850
+Nepal,Hetauda,modern,"Hetauda Industrial Area (urban zone), Churiya Hills Viewpoint",Air pollution,Yes,80,850
+Nepal,Chitwan,adventurous,Elephant Bathing Station (wildlife activity),Sun protection,Yes,95,850
+Nepal,Sagarmatha National Park,adventurous,Everest Base Camp Trek (mountain trek),Extreme altitude,Yes,110,850
+Nepal,Khaptad,photography,Khaptad National Park (hill plateau views),Basic amenities,Yes,85,850
+Nepal,Taplejung,adventurous,Kanchenjunga Base Camp Trek (mountain trek),High altitude,Yes,110,850
+Nepal,Syabrubesi,photography,Langtang Trekking Base (village photography),Landslide risk,Yes,90,850
+Nepal,Dolakha,culture,"Kalinchowk Temple (hill shrine), Mountain ridge vistas",Cold nights,Yes,85,850
+Nepal,Janakpur,photography,"Sita Janaki Temple (colorful shrine), Mithila Art Murals",Cultural sensitivity,Yes,80,850
+Nepal,Kapilvastu,culture,Tilaurakot (historic Buddha palace ruins),Rural roads,Yes,85,850
+Nepal,Sindhupalchok,adventurous,Helambu Trekking (himalayan trail),Landslide season,Yes,100,850
+Nepal,Mustang,photography,Lo Dragon???s Eye Cave (photography site) ,Dark cave,Yes,105,850
+North Korea,Pyongyang,culture,"Kumsusan Palace of the Sun (mausoleum), Mansudae Grand Monument (statues), Juche Tower (ideology monument)",Strict behavior guidelines,Yes,120,1200
+North Korea,Pyongyang,modern,"Ryugyong Hotel (skyscraper), Pyongyang Metro (underground art stations)",Tour guide required at all times,Yes,125,1200
+North Korea,Kaesong,culture,"Panmunjom (DMZ Joint Security Area), Koryo Museum (ancient Korean history)",No photography in DMZ,Yes,110,1200
+North Korea,Mount Myohyang,culture,"International Friendship Exhibition (gift halls), Pohyon Temple (historic Buddhist temple)",Limited communication,Yes,120,1200
+North Korea,Nampo,modern,"West Sea Barrage (hydroelectric project), Nampo Port",Restricted access,Yes,115,1200
+North Korea,Mount Paektu,adventurous,"Mount Paektu Crater Lake (sacred mountain lake), Heaven Lake (summit view)",Altitude & weather risk,Yes,130,1200
+North Korea,Hamhung,culture,"Majon Beach (coastal resort), Hungnam Fertilizer Complex (industrial visit)",Tour guides control access,Yes,110,1200
+North Korea,Wonsan,photography,"Wonsan Beach (beachfront city), Songdowon International Children's Camp (campus)",Swimming restrictions,Yes,115,1200
+North Korea,Chongjin,culture,"North Hamgyong Provincial Museum, Chongjin Steel Complex (industrial site)",Restricted photography,Yes,110,1200
+North Korea,Samjiyon,adventurous,"Samjiyon Grand Monument (historic site), Paektu Waterfall",Cold conditions,Yes,125,1200
+North Korea,Sariwon,culture,"Sariwon Folklore Street (Korean culture display), Mount Kyongam Pavilion",Limited independent movement,Yes,110,1200
+North Korea,Rason,modern,"Rason Special Economic Zone (business district), Rajin Port (trading harbor)",Strict permit requirements,Yes,115,1200
+North Korea,Pyongsong,modern,"Pyongsong Science Center (educational museum), Jangchon Cooperative Farm (model farm)",Limited infrastructure,Yes,110,1200
+North Korea,Sinchon,culture,Sinchon Museum of American War Atrocities,Graphic exhibits,Yes,110,1200
+North Korea,Mount Kumgang,adventurous,"Mount Kumgang Scenic Area (hiking trails), Kuryong Falls (waterfall)",Hiking safety precautions,Yes,125,1200
+North Korea,Hyesan,photography,"Yalu River Viewpoint (border photography), Hyesan City Market",No photography near borders,Yes,120,1200
+North Korea,Mount Chilbo,adventurous,"Chilbo Mountain Trekking Routes, Sea Chilbo Coastal Area",Remote area,Yes,130,1200
+North Korea,Onchon,adventurous,Onchon Hot Springs Resort,Health restrictions may apply,Yes,115,1200
+North Korea,Kimchaek,culture,"Kimchaek Iron Complex, Coastal Fishing Villages",Limited transport,Yes,110,1200
+North Korea,Hoeryong,culture,"Kim Jong Suk Native House (historic home), Hoeryong Park",Border restrictions,Yes,115,1200
+North Korea,Songnim,modern,Songnim Industrial Zone (factory visits),Restricted access,Yes,110,1200
+North Korea,Anbyon,photography,"Anbyon Hot Springs (natural spa area), Anbyon Waterfall (landscape)",Access limited by tour,Yes,115,1200
+North Korea,Taedonggang,photography,Taedong River Cruises (river city view),Tour escort mandatory,Yes,115,1200
+North Korea,Chongjin Port,modern,"Chongjin Shipyard (industrial visit), Port Observation Deck",Restricted areas,Yes,110,1200
+North Korea,Pyongyang Circus,modern,Pyongyang State Circus (cultural performance),Limited shows,Yes,120,1200
+Oman,Muscat,culture,"Sultan Qaboos Grand Mosque, Royal Opera House",Respect dress code,No,120,1800
+Oman,Muscat,modern,"Avenues Mall (shopping mall), Al Mouj Marina (modern harbor)",High temperatures,No,120,1800
+Oman,Nizwa,culture,"Nizwa Fort, Nizwa Souq (traditional market)",Hot midday sun,No,110,1800
+Oman,Nizwa,photography,"Jebel Akhdar (mountain scenery), Date Palm Plantations",Steep roads,No,115,1800
+Oman,Salalah,adventurous,"Wadi Darbat (waterfalls & hiking), Al Mughsail Beach (cliffside beach)",Flash floods in wadis,No,125,1800
+Oman,Salalah,photography,"Frankincense Land Museum, Al Haffa Beach (white sands)",Humidity during khareef,No,120,1800
+Oman,Sohar,culture,"Sohar Fort, Sohar Corniche",Respect local customs,No,110,1800
+Oman,Sur,photography,"Ras Al Jinz Turtle Reserve, Dhow Shipyard (traditional boatyard)",Limited public transport,No,115,1800
+Oman,Jebel Shams,adventurous,"Jebel Shams Grand Canyon (hiking), Balcony Walk Trail",Cliffside caution,No,130,1800
+Oman,Al Hamra,culture,"Al Hamra Old Town (mudbrick village), Bait Al Safah Museum",Narrow alleys,No,110,1800
+Oman,Bahla,culture,"Bahla Fort (UNESCO site), Bahla Pottery Market",Heat exposure,No,110,1800
+Oman,Ibra,photography,"Ibra Old Quarter, Wednesday Souq (women's market)",Quiet town,No,110,1800
+Oman,Masirah Island,adventurous,"Kite Surfing Beaches, Masirah Beaches (remote coastline)",Strong currents,No,120,1800
+Oman,Duqm,modern,"Duqm Port (industrial port), Duqm Rock Garden",Industrial zone,No,115,1800
+Oman,Wadi Shab,adventurous,Wadi Shab Trekking & Swimming Pools,Slippery rocks,No,125,1800
+Oman,Wadi Bani Khalid,adventurous,"Natural Pools (swimming), Mountain Caves",Flash flood risk,No,125,1800
+Oman,Sharqiya Sands,adventurous,"Desert Safari, Camel Riding",Heatstroke risk,No,125,1800
+Oman,Khasab,adventurous,"Dhow Cruise in Musandam Fjords, Dolphin Watching",Sea sickness,No,130,1800
+Oman,Khasab,photography,"Khasab Castle, Telegraph Island (historic site)",Limited mobile signal,No,125,1800
+Oman,Muttrah,culture,"Muttrah Souq (bazaar), Corniche Walk (harbor view)",Pickpockets in crowded areas,No,110,1800
+Oman,Seeb,modern,"City Centre Muscat Mall, Seeb Corniche",Hot afternoons,No,110,1800
+Oman,Al Rustaq,culture,"Rustaq Fort, Ain Al Kasfa Hot Springs",High sulfur content,No,110,1800
+Oman,Samail,culture,"Samail Castle, Samail Mosque (historic mosque)",Quiet rural town,No,110,1800
+Oman,Yiti Beach,adventurous,"Beach Camping, Cliff Hiking",Tide awareness,No,115,1800
+Oman,Al Batinah,photography,"Al Batinah Coastal Road, Traditional Fishing Villages",Traffic on weekends,No,115,1800
+Oman,Izki,culture,"Izki Twin Towers (ancient ruins), Traditional Villages",Dust storms possible,No,110,1800
+Oman,Bidiyah,adventurous,"Dune Bashing (desert safari), Bedouin Camp Visit",Desert heat,No,120,1800
+Oman,Musandam,adventurous,"Snorkeling in Fjords, Khor Najd Viewpoint",Steep mountain roads,No,130,1800
+Oman,Qurayyat,photography,"Qurayyat Fort, Qurayyat Fish Market",Quiet town,No,110,1800
+Oman,As Sifah,adventurous,"As Sifah Beach (beachfront resort), Boat Tours",Strong sun,No,120,1800
+Pakistan,Islamabad,modern,"Faisal Mosque, Pakistan Monument (national memorial)",Security checks common,Yes,90,1600
+Pakistan,Islamabad,photography,"Daman-e-Koh Viewpoint, Rawal Lake (scenic reservoir)",Wild monkeys,Yes,90,1600
+Pakistan,Lahore,culture,"Badshahi Mosque, Lahore Fort (UNESCO heritage)",Traffic congestion,Yes,85,1600
+Pakistan,Lahore,photography,"Shalimar Gardens, Minar-e-Pakistan (monument)",Crowded weekends,Yes,85,1600
+Pakistan,Karachi,modern,"Mazar-e-Quaid (founder's mausoleum), Clifton Beach",High urban traffic,Yes,90,1600
+Pakistan,Karachi,photography,"Frere Hall (colonial building), Mohatta Palace Museum",Hot afternoons,Yes,90,1600
+Pakistan,Skardu,adventurous,"Deosai National Park (plateau trek), Shigar Fort",High altitude sickness,Yes,100,1600
+Pakistan,Skardu,photography,"Satpara Lake (alpine lake), Upper Kachura Lake",Cold nights,Yes,100,1600
+Pakistan,Gilgit,adventurous,"Rakaposhi Base Camp Trek, Naltar Valley (skiing)",Remote roads,Yes,100,1600
+Pakistan,Gilgit,photography,"Hunza Valley, Passu Cones (mountain peaks)",Rockfall zones,Yes,100,1600
+Pakistan,Peshawar,culture,"Qissa Khwani Bazaar (historic market), Peshawar Museum",Security restrictions,Yes,80,1600
+Pakistan,Peshawar,photography,"Bala Hisar Fort, Mohabbat Khan Mosque",Strict security zones,Yes,80,1600
+Pakistan,Multan,culture,"Shrine of Shah Rukn-e-Alam, Multan Fort",Extreme heat,Yes,80,1600
+Pakistan,Multan,photography,"Hussain Agahi Bazaar, Tomb of Bahauddin Zakariya",Busy markets,Yes,80,1600
+Pakistan,Faisalabad,modern,"Clock Tower (Ghanta Ghar), Chenab Club",Heavy traffic,Yes,80,1600
+Pakistan,Murree,adventurous,"Mall Road (hill station), Patriata Chair Lift",Snowy,Yes,90,1600
+Pakistan,Murree,photography,"Pindi Point, Kashmir Point (hill views)",Cold weather,Yes,90,1600
+Pakistan,Swat,adventurous,"Malam Jabba Ski Resort, Swat Valley Hiking Trails",Unstable roads,Yes,90,1600
+Pakistan,Swat,photography,"Miandam Valley, Fizagat Park (riverfront)",Steep cliffs,Yes,90,1600
+Pakistan,Chitral,adventurous,"Kalash Valley Trek, Garam Chashma Hot Springs",Remote location,Yes,100,1600
+Pakistan,Chitral,photography,"Tirich Mir Viewpoint (highest peak), Chitral Fort",Limited mobile coverage,Yes,100,1600
+Pakistan,Quetta,culture,"Hanna Lake, Hazarganji-Chiltan National Park",Security presence,Yes,80,1600
+Pakistan,Quetta,photography,"Ziarat Residency (historic building), Urak Valley",Dry climate,Yes,80,1600
+Pakistan,Sialkot,culture,"Iqbal Manzil (poet's birthplace), Sialkot Fort",Small town amenities,Yes,75,1600
+Pakistan,Bahawalpur,culture,"Noor Mahal (palace), Derawar Fort (desert fort)",Extreme heat in summer,Yes,80,1600
+Palestine,Jerusalem,culture,"Al-Aqsa Mosque, Church of the Holy Sepulchre",Security checks,Yes,100,1800
+Palestine,Jerusalem,photography,"Western Wall, Mount of Olives Viewpoint",Crowded holy sites,Yes,100,1800
+Palestine,Bethlehem,culture,"Church of the Nativity, Milk Grotto",Respect religious customs,Yes,100,1800
+Palestine,Bethlehem,photography,"Shepherd's Field, Star Street (historic route)",Busy during holidays,Yes,100,1800
+Palestine,Hebron,culture,"Ibrahimi Mosque (Cave of Patriarchs), Old City Market",High military presence,Yes,90,1800
+Palestine,Hebron,photography,"Glass & Ceramics Factory, Hebron Hills Landscape",Restricted zones,Yes,90,1800
+Palestine,Nablus,culture,"Jacob's Well, An-Nasr Mosque",Tight security checks,Yes,90,1800
+Palestine,Nablus,photography,"Mount Gerizim, Old Soap Factory (traditional soap)",Narrow streets,Yes,90,1800
+Palestine,Ramallah,modern,"Yasser Arafat Museum, Al-Manara Square",Political demonstrations,Yes,90,1800
+Palestine,Ramallah,photography,"Mahmoud Darwish Museum, Cultural Palace Park",Traffic congestion,Yes,90,1800
+Palestine,Jericho,adventurous,"Mount of Temptation (cable car), Hisham's Palace (ancient ruins)",Hot desert climate,Yes,100,1800
+Palestine,Jericho,photography,"Dead Sea Shore (lowest point on earth), Tell es-Sultan Ruins",Heatstroke risk,Yes,100,1800
+Palestine,Qalqilya,photography,"Qalqilya Zoo, Separation Wall Art Murals",Restricted access,Yes,85,1800
+Palestine,Tulkarm,culture,"Tulkarm Market, Freedom Park",Checkpoints common,Yes,85,1800
+Palestine,Jenin,culture,"Freedom Theatre, Jenin Old City",Occasional unrest,Yes,85,1800
+Palestine,Jenin,photography,"Burqin Church, Jenin Countryside (olive groves)",Remote areas,Yes,85,1800
+Palestine,Beit Sahour,culture,"Shepherds Field Church, Olive Wood Workshops",Respect religious sensitivity,Yes,85,1800
+Palestine,Beit Jala,photography,"Cremisan Monastery, Wine Vineyards",Narrow roads,Yes,85,1800
+Palestine,Gaza City,culture,"Great Omari Mosque, Pasha's Palace Museum",Restricted access,Yes,80,1800
+Palestine,Gaza City,photography,"Gaza Seaport (fishing boats), Al-Remal District",Limited travel permits,Yes,80,1800
+Palestine,Khan Younis,culture,"Al-Qarara Cultural Center, Khan Younis Market",Security conditions vary,Yes,80,1800
+Palestine,Rafah,photography,"Rafah Crossing Area, Mediterranean Coastline",Restricted border access,Yes,80,1800
+Palestine,Al-Bireh,modern,"Cultural Centers, Municipal Park",Traffic congestion,Yes,85,1800
+Palestine,Abu Dis,culture,"Al-Quds University, Separation Wall Viewpoint",Tension areas,Yes,85,1800
+Palestine,Halhul,photography,"Ancient Olive Trees, Agricultural Terraces",Quiet rural town,Yes,85,1800
+Philippines,Manila,modern,"Intramuros (historic walled city), Mall of Asia (shopping mall)",Traffic congestion,No,100,600
+Philippines,Manila,culture,"Rizal Park, National Museum Complex",Pickpocketing risk,No,100,600
+Philippines,Quezon City,modern,"Quezon Memorial Circle, SM North EDSA (shopping mall)",Heavy traffic,No,100,600
+Philippines,Cebu City,culture,"Magellan's Cross, Basilica del Santo Ni??o",Tourist scams,No,100,600
+Philippines,Cebu City,adventurous,"Kawasan Falls (canyoneering), Osmea Peak (hiking)",Slippery trails,No,110,600
+Philippines,Bohol,adventurous,"Chocolate Hills (geological formations), Loboc River Cruise",Heat exhaustion,No,110,600
+Philippines,Bohol,photography,"Tarsier Sanctuary, Panglao Island (beach views)",Respect wildlife,No,110,600
+Philippines,Tagaytay,photography,"Taal Volcano Viewpoint, Sky Ranch (amusement park)",Volcanic activity,No,100,600
+Philippines,Baguio,culture,"Mines View Park, The Mansion House",Cold evenings,No,90,600
+Philippines,Baguio,photography,"Burnham Park, La Trinidad Strawberry Farm",Heavy traffic on weekends,No,90,600
+Philippines,El Nido,adventurous,"Big Lagoon (island hopping), Secret Beach",Strong currents,No,120,600
+Philippines,El Nido,photography,"Small Lagoon, Shimizu Island (snorkeling site)",Protect marine life,No,120,600
+Philippines,Puerto Princesa,adventurous,"Underground River (UNESCO site), Honda Bay Island Hopping",Booking required,No,110,600
+Philippines,Coron,adventurous,"Kayangan Lake (crystal clear lake), Twin Lagoon",Watch for sharp rocks,No,120,600
+Philippines,Coron,photography,"Barracuda Lake, Mt. Tapyas View Deck",Steep climb,No,120,600
+Philippines,Davao City,culture,"People's Park, San Pedro Cathedral",Respect local customs,No,100,600
+Philippines,Davao City,photography,"Eden Nature Park, Philippine Eagle Center",Protect personal belongings,No,100,600
+Philippines,Iloilo City,culture,"Molo Church, Jaro Cathedral",Busy during festivals,No,90,600
+Philippines,Iloilo City,photography,"Esplanade River Walk, Garin Farm Pilgrimage Resort",Hot daytime weather,No,90,600
+Philippines,Siargao,adventurous,"Cloud 9 Surfing Area, Sugba Lagoon",Strong waves,No,110,600
+Philippines,Siargao,photography,"Magpupungko Rock Pools, Naked Island (sandbar)",Check tide schedule,No,110,600
+Philippines,Boracay,adventurous,"White Beach (water sports), Ariel's Point (cliff diving)",Overcrowded at peak times,No,120,600
+Philippines,Boracay,photography,"Puka Shell Beach, Mount Luho Viewpoint",Sunburn risk,No,120,600
+Philippines,Sagada,adventurous,"Sumaguing Cave (spelunking), Hanging Coffins",Slippery cave paths,No,110,600
+Philippines,Sagada,photography,"Echo Valley Viewpoint, Bomod-ok Falls",Long treks,No,110,600
+Philippines,Subic,adventurous,"Ocean Adventure Park, Subic Safari (zoo & marine park)",Heatstroke risk,No,100,600
+Philippines,Subic,photography,"Camayan Beach Resort, Inflatable Island (water park)",Sunburn risk,No,100,600
+Philippines,Zambales,adventurous,"Anawangin Cove (beach camping), Mount Pinatubo Trek",Rough terrain,No,100,600
+Philippines,Zambales,photography,"Nagsasa Cove, Capones Island Lighthouse",Boat safety,No,100,600
+Philippines,Batangas,adventurous,"Taal Volcano Trek, Anilao Diving Spots",Volcanic activity,No,100,600
+Philippines,Batangas,photography,"Laiya Beach, Fortune Island (Greek-style ruins)",Strong waves,No,100,600
+Philippines,Vigan,culture,"Calle Crisologo (Spanish colonial street), Bantay Bell Tower",Crowded on weekends,No,90,600
+Philippines,Vigan,photography,"Syquia Mansion Museum, Dancing Fountain (heritage plaza)",Respect local customs,No,90,600
+Philippines,Pagudpud,adventurous,"Blue Lagoon Beach, Kabigan Falls (hiking)",Rough seas,No,100,600
+Philippines,Pagudpud,photography,"Patapat Viaduct, Kapurpurawan Rock Formation",Remote area,No,100,600
+Philippines,Puerto Galera,adventurous,"Sabang Beach (diving), Tamaraw Falls (waterfall trek)",Watch for strong currents,No,100,600
+Philippines,Puerto Galera,photography,"White Beach, Coral Garden (snorkeling site)",Protect marine life,No,100,600
+Philippines,Samal Island,adventurous,"Monfort Bat Sanctuary, Maxima Aquafun Water Park",Heat exhaustion,No,100,600
+Philippines,Samal Island,photography,"Pearl Farm Beach Resort, Hagimit Falls",Slippery rocks,No,100,600
+Qatar,Doha,modern,"The Pearl-Qatar (artificial island), City Center Mall",Traffic congestion,No,150,2200
+Qatar,Doha,culture,"Museum of Islamic Art, Souq Waqif (traditional market)",Respect dress code,No,150,2200
+Qatar,Doha,photography,"Corniche Waterfront, Katara Cultural Village",Hot midday sun,No,150,2200
+Qatar,Doha,adventurous,"Desert Safari (dune bashing), Khor Al Adaid (Inland Sea)",Sandstorms,No,160,2200
+Qatar,Al Wakrah,culture,"Al Wakrah Souq, Al Wakrah Heritage Village",Hot daytime temperatures,No,140,2200
+Qatar,Al Wakrah,photography,"Al Wakrah Beach, Old Port Area",Heatstroke risk,No,140,2200
+Qatar,Al Khor,adventurous,"Al Thakira Mangroves (kayaking), Purple Island (nature walk)",Insect bites,No,140,2200
+Qatar,Al Khor,photography,"Al Khor Corniche, Fishing Harbor Viewpoint",Limited public transport,No,140,2200
+Qatar,Al Shahaniya,adventurous,"Camel Racing Track, Sheikh Faisal Bin Qassim Al Thani Museum",Heat exhaustion,No,140,2200
+Qatar,Al Shahaniya,photography,"Desert Landscape Dunes, Racing Stadium Views",Carry water,No,140,2200
+Qatar,Dukhan,adventurous,"Dukhan Beach (camping), West Coast Sand Dunes",No lifeguards at beaches,No,150,2200
+Qatar,Dukhan,photography,"Zekreet Rock Formations, Film City (artificial village)",Remote access,No,150,2200
+Qatar,Umm Bab,adventurous,"Palm Tree Oasis, Umm Bab Beach",Limited facilities,No,140,2200
+Qatar,Simaisma,culture,"Simaisma Mosque, Simaisma Family Beach",Basic amenities,No,140,2200
+Qatar,Simaisma,photography,"Mangrove Views, Coastal Sunset Spots",Slippery wet zones,No,140,2200
+Qatar,Mesaieed,adventurous,"Sealine Beach (ATV riding), Sandboarding Dunes",Strong sun exposure,No,160,2200
+Qatar,Mesaieed,photography,"Desert Panoramas, Sealine Sunrise Viewpoint",Bring sunscreen,No,160,2200
+Qatar,Al Zubarah,culture,"Al Zubarah Fort (UNESCO site), Historical Port Ruins",Remote heritage site,No,150,2200
+Qatar,Al Zubarah,photography,"Desert Fort Aerial Shots, Coastal Desert Scenery",Carry sufficient water,No,150,2200
+Qatar,Ras Abrouq,adventurous,"Rock Mushroom Formations, Camping Area",Remote location,No,150,2200
+Qatar,Ras Abrouq,photography,"Inland Rock Pillars, West Coast Seashore",Watch for sudden weather,No,150,2200
+Qatar,Lusail,modern,"Lusail Marina Promenade, Lusail Stadium",Ongoing construction,No,160,2200
+Qatar,Lusail,photography,"Place Vendome Mall (architecture), Lusail Towers Skyline",Crowded on weekends,No,160,2200
+Qatar,Al Ruwais,culture,"Al Ruwais Mosque, Al Ruwais Harbor",Quiet coastal town,No,140,2200
+Qatar,Al Ruwais,photography,"Fishing Boat Dock, Sunset Seaview Spots",Little shade available,No,140,2200
+Qatar,Madinat ash Shamal,adventurous,"Shamal Fort, Northern Desert Exploration",Sparse medical facilities,No,140,2200
+Qatar,Madinat ash Shamal,photography,"Northernmost Coastline, Ruins of Abandoned Villages",Limited cell coverage,No,140,2200
+Qatar,Al Gharrafa,modern,"Landmark Mall, Al Gharrafa Park",Busy parking areas,No,150,2200
+Qatar,Education City,modern,"Qatar National Library, Education City Mosque",Security checks for access,No,160,2200
+Qatar,Education City,photography,"Qatar Foundation Headquarters, Oxygen Park (landscaped park)",Sun exposure,No,160,2200
+Qatar,Al Daayen,culture,"Barzan Towers (historic watchtowers), Al Daayen Heritage Zone",Limited transportation,No,150,2200
+Qatar,Al Daayen,photography,"Watchtower Landscape Views, Desert Palm Trees",Remote access,No,150,2200
+Qatar,Al Wukair,culture,"Al Wukair Mosque, Local Souq Markets",Quiet suburban area,No,140,2200
+Qatar,Al Wukair,photography,"Al Wukair Beach, Suburban Park Views",Basic services,No,140,2200
+Qatar,Al Thumama,modern,"Al Thumama Stadium (football arena), Al Thumama Park",Heavy matchday crowds,No,150,2200
+Qatar,Umm Salal,culture,"Umm Salal Fortress, Barzan Olympic Park",Quiet historical zone,No,140,2200
+Qatar,Umm Salal,photography,"Old Fort Views, Olympic Park Gardens",Dry,No,140,2200
+Qatar,Doha,adventurous,"Banana Island Resort (water activities), Doha Corniche Cycling",Expensive activities,No,160,2200
+Qatar,Doha,photography,"National Museum of Qatar (architecture), Aspire Park",Very hot afternoons,No,160,2200
+Qatar,Al Ghuwairiya,adventurous,"North Coast Beach Camps, Desert Road Trips",No emergency services nearby,No,140,2200
+Qatar,Al Ghuwairiya,photography,"Uninhabited Coastal Areas, Sunrise Beach Views",Bring navigation tools,No,140,2200
+Qatar,Old Doha Port,modern,"Grand Cruise Terminal, Mina District (restaurants & cafes)",Busy with tourists,No,160,2200
+Qatar,Old Doha Port,photography,"Colorful Old Port Buildings, Yacht Marina",Heat risk,No,160,2200
+Russia,Moscow,culture,"Red Square, Kremlin Complex",Pickpocket risk in crowded areas,Yes,200,3100
+Russia,Moscow,modern,"Moscow City Skyscrapers, GUM Shopping Center",Traffic congestion,Yes,220,3100
+Russia,Moscow,photography,"Saint Basil's Cathedral, Zaryadye Park Skywalk",Cold weather,Yes,200,3100
+Russia,Moscow,adventurous,"Bunker 42 Cold War Museum (underground tour), Moscow River Cruise",Slippery surfaces in winter,Yes,220,3100
+Russia,St. Petersburg,culture,"Hermitage Museum, Peterhof Palace",Long queues,Yes,200,3100
+Russia,St. Petersburg,modern,"Lakhta Center (skyscraper), Galeria Shopping Mall",Crowds during peak hours,Yes,200,3100
+Russia,St. Petersburg,photography,"Church of the Savior on Spilled Blood, Palace Square",Snow and ice in winter,Yes,200,3100
+Russia,St. Petersburg,adventurous,"Peter and Paul Fortress (historical island), Neva River Boat Tour",Cold winds,Yes,220,3100
+Russia,Kazan,culture,"Kazan Kremlin, Qol Sharif Mosque",Dress respectfully at religious sites,Yes,180,3100
+Russia,Kazan,modern,"Riviera Water Park, Kazan Family Center (wedding palace)",Slippery surfaces,Yes,180,3100
+Russia,Kazan,photography,"Bauman Street (pedestrian zone), Temple of All Religions",Busy during weekends,Yes,180,3100
+Russia,Sochi,adventurous,"Rosa Khutor Ski Resort, Skypark AJ Hackett (bungee jumping)",Altitude sickness,Yes,250,3100
+Russia,Sochi,photography,"Olympic Park, Sochi Arboretum",Sudden weather changes,Yes,220,3100
+Russia,Sochi,culture,"Stalin's Dacha Museum, Sochi Art Museum",Mountain roads,Yes,220,3100
+Russia,Vladivostok,adventurous,"Russky Island Suspension Bridge, Eagle's Nest Hill (hiking view)",Foggy conditions,Yes,200,3100
+Russia,Vladivostok,photography,"Golden Horn Bay Viewpoint, Tokarevsky Lighthouse",Steep walking paths,Yes,200,3100
+Russia,Vladivostok,culture,"Vladivostok Fortress Museum, Vladivostok Railway Terminal",Cold winds from sea,Yes,200,3100
+Russia,Yekaterinburg,culture,"Church on the Blood, Yeltsin Center Museum",Cold winters,Yes,200,3100
+Russia,Yekaterinburg,modern,"Vysotsky Skyscraper, Greenwich Shopping Center",Slippery roads,Yes,200,3100
+Russia,Yekaterinburg,photography,"Ganina Yama Monastery (forest monastery), Iset River Embankment",Remote access in winter,Yes,200,3100
+Russia,Irkutsk,adventurous,"Lake Baikal Ice Trekking, Listvyanka Skiing",Extreme cold,Yes,240,3100
+Russia,Irkutsk,photography,"Listvyanka Lakefront, Taltsy Wooden Architecture Museum",Freezing temperatures,Yes,240,3100
+Russia,Irkutsk,culture,"Epiphany Cathedral, Irkutsk Regional Museum",Wear winter gear,Yes,220,3100
+Russia,Murmansk,adventurous,"Northern Lights Tour, Snowmobile Safaris",Extreme cold,Yes,250,3100
+Russia,Murmansk,photography,"Alyosha Monument, Kola Bay Views",Slippery ice,Yes,250,3100
+Russia,Murmansk,culture,"Nuclear Icebreaker Lenin Museum, Regional Museum of Murmansk",Limited daylight hours,Yes,240,3100
+Russia,Novosibirsk,culture,"Alexander Nevsky Cathedral, Novosibirsk State Museum",Cold climate,Yes,200,3100
+Russia,Novosibirsk,modern,"Novosibirsk Zoo, Gallery Novosibirsk Shopping Mall",Winter roads,Yes,200,3100
+Russia,Novosibirsk,photography,"Ob River Embankment, Pervomaisky Square",Snow storms,Yes,200,3100
+Russia,Rostov-on-Don,culture,"Rostov Kremlin, Pushkin Street Promenade",Be cautious of pickpockets,Yes,200,3100
+Russia,Rostov-on-Don,photography,"Don River Embankment, Cathedral of the Nativity",Crowded weekends,Yes,200,3100
+Russia,Rostov-on-Don,adventurous,"Don Delta Tours, Horseback Riding Trails",Insect bites in summer,Yes,220,3100
+Russia,Kaliningrad,culture,"K??nigsberg Cathedral, Amber Museum",Border area restrictions,Yes,200,3100
+Russia,Kaliningrad,photography,"Curonian Spit (sand dunes), Fishing Village (urban complex)",Windy coastline,Yes,200,3100
+Russia,Kaliningrad,adventurous,"Curonian Spit Cycling, Baltic Sea Beach",Cold waters,Yes,220,3100
+Russia,Nizhny Novgorod,culture,"Nizhny Novgorod Kremlin, Chkalov Stairs",Long uphill walks,Yes,200,3100
+Russia,Nizhny Novgorod,photography,"Volga River Viewpoints, Bolshaya Pokrovskaya Street",Cold winds,Yes,200,3100
+Russia,Nizhny Novgorod,modern,"Sky 1520 Observation Deck, Mega Mall",Traffic jams,Yes,200,3100
+Russia,Veliky Novgorod,culture,"St. Sophia Cathedral, Yaroslav's Court",Snowy conditions,Yes,200,3100
+Russia,Veliky Novgorod,photography,"Novgorod Kremlin Views, Volkhov River",Slippery riverbanks,Yes,200,3100
+Russia,Golden Ring,culture,"Suzdal Kremlin, Trinity Lavra of St. Sergius",Winter road closures,Yes,200,3100
+Russia,Golden Ring,photography,"Ivanovo Wooden Houses, Vladimir Cathedral Views",Bring proper footwear,Yes,200,3100
+Russia,Siberia,adventurous,"Altai Mountains Trekking, Sheregesh Ski Resort",Severe cold,Yes,250,3100
+Russia,Siberia,photography,"Snowy Forests of Krasnoyarsk, Yenisei River",Wild animals possible,Yes,250,3100
+Russia,Karelia,adventurous,"Kizhi Island (wooden churches), Ruskeala Marble Canyon",Remote conditions,Yes,240,3100
+Russia,Karelia,photography,"Ladoga Lake Viewpoints, Kivach Waterfall",Limited mobile signal,Yes,240,3100
+Russia,Karelia,culture,"Valaam Monastery, Petrozavodsk City Center",Cold in winter,Yes,220,3100
+Russia,Kamchatka,adventurous,"Valley of Geysers, Avachinsky Volcano Trek",Volcanic hazards,Yes,250,3100
+Russia,Kamchatka,photography,"Kamchatka Peninsula Landscapes, Pacific Coastline",Remote area,Yes,250,3100
+Russia,Arkhangelsk,culture,"Northern Maritime Museum, Gostiny Dvor Market",Cold and icy streets,Yes,220,3100
+Russia,Arkhangelsk,photography,"Severodvinsk Coastline, Wooden House Streets",Slippery pathways,Yes,220,3100
+Russia,Komi Republic,adventurous,"Manpupuner Rock Formations (trekking), Pechora National Park",Difficult access,Yes,250,3100
+Russia,Komi Republic,photography,"Ural Mountains Views, Izhma River Valleys",Remote wilderness,Yes,250,3100
+Russia,Chelyabinsk,culture,"Chelyabinsk Regional Museum, Victory Garden Park",Cold climate,Yes,220,3100
+Russia,Chelyabinsk,photography,"Chelyabinsk City Viewpoints, Smolino Lake",Snow and ice,Yes,220,3100
+Russia,Vologda,culture,"Vologda Kremlin, Spaso-Prilutsky Monastery",Slippery winter paths,Yes,200,3100
+Russia,Vologda,photography,"Wooden Lace Houses, Vologda River View",Heavy snowfalls,Yes,200,3100
+Russia,Omsk,culture,"Assumption Cathedral, Omsk Fortress",Icy streets,Yes,200,3100
+Russia,Omsk,photography,"Irtysh River Embankment, City Park Views",Blizzards possible,Yes,200,3100
+Russia,Ulan-Ude,culture,"Ivolginsky Datsan (Buddhist monastery), Lenin Head Monument",Dress warmly,Yes,220,3100
+Russia,Ulan-Ude,photography,"Lake Baikal Eastern Shore, Uda River",Harsh climate,Yes,220,3100
+Saudi Arabia,Riyadh,culture,"Masmak Fortress, National Museum of Saudi Arabia",Dress conservatively,No,250,2700
+Saudi Arabia,Riyadh,modern,"Kingdom Centre Tower, Al Nakheel Mall",Traffic congestion,No,260,2700
+Saudi Arabia,Riyadh,photography,"Al Faisaliyah Center, Wadi Namar Park",Hot sun,No,250,2700
+Saudi Arabia,Riyadh,adventurous,"Edge of the World (Tuwaiq cliffs hiking), Al Diriyah (UNESCO site)",Steep cliffs,No,270,2700
+Saudi Arabia,Jeddah,culture,"Al-Balad Historical District, Naseef House (heritage museum)",Narrow old streets,No,250,2700
+Saudi Arabia,Jeddah,modern,"Red Sea Mall, King Fahd Fountain",Humidity,No,260,2700
+Saudi Arabia,Jeddah,photography,"Jeddah Waterfront, Floating Mosque (Al Rahma Mosque)",Extreme heat,No,250,2700
+Saudi Arabia,Jeddah,adventurous,"Scuba Diving (Red Sea coral reefs), Obhur Beach (watersports)",Strong currents,No,270,2700
+Saudi Arabia,Mecca,culture,"Masjid al-Haram (Grand Mosque), Abraj Al Bait (Clock Tower)",Strict religious codes,No,250,2700
+Saudi Arabia,Mecca,photography,"Kaaba (holy site), Mount Arafat",Heavy crowds,No,250,2700
+Saudi Arabia,Medina,culture,"Al-Masjid an-Nabawi (Prophet's Mosque), Quba Mosque",Strict codes of conduct,No,250,2700
+Saudi Arabia,Medina,photography,"Mount Uhud, Qiblatain Mosque",Hot and dry,No,250,2700
+Saudi Arabia,Abha,adventurous,"Asir National Park (mountain trekking), Al Soudah Park (hiking)",High altitudes,No,270,2700
+Saudi Arabia,Abha,photography,"Habala Village (hanging village), Abha Dam Lake",Remote access,No,260,2700
+Saudi Arabia,Abha,culture,"Shada Palace (museum), Al Muftaha Art Village",Mountain weather,No,260,2700
+Saudi Arabia,Taif,culture,"Al Rudaf Park, Shubra Palace (museum)",Mountain driving,No,250,2700
+Saudi Arabia,Taif,photography,"Al Hada Mountain Viewpoints, Rose Gardens (April-May bloom)",Steep mountain roads,No,250,2700
+Saudi Arabia,Taif,adventurous,"Cable Car Ride, Al Shafa Mountains (hiking)",High cliffs,No,270,2700
+Saudi Arabia,Al Ula,culture,"Madain Saleh (UNESCO site), Elephant Rock (natural formation)",Extreme sun,No,250,2700
+Saudi Arabia,Al Ula,photography,"Desert Rock Formations, Al Ula Old Town (ruins)",Remote desert area,No,250,2700
+Saudi Arabia,Al Ula,adventurous,"Hot Air Ballooning, Dadan Archaeological Site (ancient ruins)",Limited medical access,No,270,2700
+Saudi Arabia,Tabuk,culture,"Tabuk Castle, Al Tawba Mosque",Desert weather,No,250,2700
+Saudi Arabia,Tabuk,photography,"Wadi Disah Canyon, Al Shaq Canyon (The Grand Canyon of Saudi)",Watch for flash floods,No,260,2700
+Saudi Arabia,Tabuk,adventurous,"Snowy Jebel Al Lawz (mountain climb), Wadi Al Disah Hiking",Sudden weather changes,No,270,2700
+Saudi Arabia,Al Khobar,modern,"King Fahd Causeway, Al Rashid Mall",Weekend traffic,No,260,2700
+Saudi Arabia,Al Khobar,photography,"Half Moon Bay Beach, Khobar Corniche",Heatstroke risk,No,250,2700
+Saudi Arabia,Dammam,culture,"Heritage Village Museum, King Fahd Park",Hot climate,No,250,2700
+Saudi Arabia,Dammam,photography,"Dammam Corniche, Marina Promenade",High humidity,No,250,2700
+Saudi Arabia,Jazan,adventurous,"Farasan Islands (diving/snorkeling), Faifa Mountains (hiking)",Boat safety,No,270,2700
+Saudi Arabia,Jazan,photography,"Wadi Lajab (canyon), Jazan Corniche",Remote wilderness,No,260,2700
+Saudi Arabia,Ha'il,culture,"A'arif Fort, Ha'il Heritage Museum",Dry desert heat,No,250,2700
+Saudi Arabia,Ha'il,photography,"Jubbah Rock Carvings (petroglyphs), Samra Mountain",Dust storms,No,250,2700
+Saudi Arabia,Ha'il,adventurous,"Aja and Salma Mountains (trekking), Al Nafud Desert Safari",Heat exhaustion,No,270,2700
+Saudi Arabia,Al Qassim,culture,"Qassim Regional Museum, Al Nakheel Date Market",Heat exposure,No,250,2700
+Saudi Arabia,Al Qassim,photography,"Unayzah Old Souq, Date Palm Plantations",Dust allergies,No,250,2700
+Saudi Arabia,Buraidah,culture,"Buraidah Museum, King Abdullah National Park",Strong sun,No,250,2700
+Saudi Arabia,Buraidah,photography,"Camel Market (world's largest), Buraidah Water Tower",Animal safety,No,250,2700
+Saudi Arabia,Najran,culture,"Najran Fort, Al-Ukhdood Archaeological Site",Remote desert region,No,250,2700
+Saudi Arabia,Najran,photography,"Wadi Najran, Al-Aan Palace",Hot temperatures,No,250,2700
+Saudi Arabia,Najran,adventurous,"Empty Quarter Desert Safari, Mountain Caves Exploration",Remote medical access,No,270,2700
+Saudi Arabia,Al Bahah,culture,"Al Bahah Museum, Al Aqiq Heritage Village",Mountain driving,No,250,2700
+Saudi Arabia,Al Bahah,photography,"Raghadan Forest Park, Marble Village (Dhee Ayn)",Slippery roads,No,250,2700
+Saudi Arabia,Al Bahah,adventurous,"Baljurashi Mountains Hiking, Al Hada Pass Drive",High altitude sickness,No,270,2700
+Saudi Arabia,Al Jouf,culture,"Marid Castle, Zaabal Castle",Desert climate,No,250,2700
+Saudi Arabia,Al Jouf,photography,"Dumat Al Jandal Lake, Olive Farms Views",Heat exposure,No,250,2700
+Saudi Arabia,Al Jouf,adventurous,"Al-Rajajil Standing Stones (ancient site), Sand Dune Drives",Remote wilderness,No,270,2700
+Saudi Arabia,Sakaka,culture,"Sakaka Castle, Al-Saqr Historical Palace",Hot summers,No,250,2700
+Saudi Arabia,Sakaka,photography,"Ancient Rock Art Sites, Wadi Sirhan Valleys",Desert hazards,No,250,2700
+Saudi Arabia,Riyadh,modern,"King Abdullah Financial District (skyscrapers), Riyadh Boulevard",Heavy traffic,No,260,2700
+Saudi Arabia,Riyadh,photography,"Wadi Hanifa Valley, Salam Park (urban lake)",Hot dry weather,No,250,2700
+Saudi Arabia,Mecca,modern,"Makkah Mall, Abraj Al Bait Shopping Complex",Crowded zones,No,260,2700
+Saudi Arabia,Medina,modern,"Al Noor Mall, Knowledge Economic City",Busy weekends,No,260,2700
+Singapore,Singapore,culture,"National Museum of Singapore, Asian Civilisations Museum",Follow local laws strictly,No,400,400
+Singapore,Singapore,culture,"Peranakan Museum, Malay Heritage Centre",No chewing gum in public,No,400,400
+Singapore,Singapore,culture,"Sri Mariamman Temple (Hindu temple), Sultan Mosque (Islamic heritage)",Respect religious sites,No,400,400
+Singapore,Singapore,modern,"Marina Bay Sands SkyPark, The Shoppes at Marina Bay Sands",High spending areas,No,450,400
+Singapore,Singapore,modern,"Suntec City Mall, Orchard Road Shopping Street",Peak hour crowds,No,450,400
+Singapore,Singapore,modern,"Marina One (futuristic complex), Jewel Changi Airport (Rain Vortex)",Busy airport traffic,No,450,400
+Singapore,Singapore,photography,"Gardens by the Bay, Cloud Forest Dome",Heat and humidity,No,450,400
+Singapore,Singapore,photography,"Merlion Park, Helix Bridge",Crowds during weekends,No,450,400
+Singapore,Singapore,photography,"ArtScience Museum (lotus-shaped building), Marina Barrage (city skyline)",Sun exposure,No,450,400
+Singapore,Singapore,adventurous,"SkyHelix Sentosa, AJ Hackett Sentosa Bungy Jump",Fear of heights,No,500,400
+Singapore,Singapore,adventurous,"Mega Adventure Zipline, Sentosa Adventure Cove Waterpark",Water safety,No,500,400
+Singapore,Singapore,adventurous,"Southern Ridges Hiking Trail, MacRitchie Treetop Walk",Stay hydrated,No,500,400
+Singapore,Singapore,culture,"Chinatown Heritage Centre, Little India Arcade",Busy markets,No,400,400
+Singapore,Singapore,photography,"Esplanade Theatres on the Bay, Fullerton Hotel (historic building)",Crowded events,No,450,400
+Singapore,Singapore,culture,"Buddha Tooth Relic Temple, Armenian Church",Respect customs,No,400,400
+Singapore,Singapore,photography,"Fort Canning Park (colonial site), Singapore Botanic Gardens (UNESCO site)",Mosquito protection,No,450,400
+Singapore,Singapore,modern,"DUO Towers, Funan Digital Life Mall",High-tech zones,No,450,400
+Singapore,Singapore,adventurous,"Pulau Ubin Cycling Trails, Chek Jawa Wetlands Exploration",Watch for wild animals,No,500,400
+Singapore,Singapore,photography,"Haw Par Villa (mythological theme park), Kampong Glam Murals",Heat exhaustion,No,450,400
+Singapore,Singapore,adventurous,"Kayaking at Kallang Basin, East Coast Park Cycling",Strong sun exposure,No,500,400
+Singapore,Singapore,modern,"IMM Outlet Mall, VivoCity Shopping Mall",Weekend crowds,No,450,400
+Singapore,Singapore,adventurous,"Forest Adventure Obstacle Course, Bukit Timah Nature Reserve Hiking",Wildlife caution,No,500,400
+Singapore,Singapore,photography,"Lau Pa Sat (historic hawker centre), Clarke Quay Night Views",Busy nightlife zones,No,450,400
+Singapore,Singapore,culture,"Indian Heritage Centre, The Istana (Presidential Residence)",Entry restrictions,No,400,400
+Singapore,Singapore,modern,"Capitol Piazza, Raffles City Mall",Peak tourist seasons,No,450,400
+Singapore,Singapore,photography,"ION Orchard Viewing Gallery, Singapore Flyer (observation wheel)",High winds at altitude,No,450,400
+Singapore,Singapore,adventurous,"Gogreen Segway Eco Adventure, The Southern Islands Day Trip",Ferry schedules,No,500,400
+Singapore,Singapore,modern,"Mapletree Business City, Marina Bay Financial Centre",Business crowds,No,450,400
+Singapore,Singapore,culture,"Kranji War Memorial, Changi Chapel & Museum",Respect memorials,No,400,400
+Singapore,Singapore,photography,"The Jewel Rain Vortex, HSBC Rainforest Dome",Humidity,No,450,400
+Singapore,Singapore,adventurous,"Stand-up Paddleboarding (Sentosa), Lazarus Island Beach Trekking",Weather changes,No,500,400
+Singapore,Singapore,modern,"Paya Lebar Quarter, Northpoint City Mall",No special risks,No,450,400
+Singapore,Singapore,photography,"Punggol Waterway Park, Marina Reservoir Sunset Views",Evening crowds,No,450,400
+Singapore,Singapore,culture,"Singapore Philatelic Museum, Indian National Army Monument",Limited public access,No,400,400
+Singapore,Singapore,modern,"Bugis Junction Mall, Plaza Singapura",Weekend shopping rush,No,450,400
+Singapore,Singapore,adventurous,"Indoor Skydiving (iFly Sentosa), VR Adventure Experiences",Supervise children,No,500,400
+Singapore,Singapore,photography,"Changi Boardwalk, Labrador Nature Reserve Coastal Walk",Strong sun,No,450,400
+Singapore,Singapore,modern,"Tanjong Pagar Centre, 100 AM Mall",No special risks,No,450,400
+Singapore,Singapore,photography,"Singapore Sports Hub, The Float at Marina Bay",Event crowd surges,No,450,400
+Singapore,Singapore,culture,"Civilian War Memorial, Eurasian Heritage Gallery",Respect solemn sites,No,400,400
+Singapore,Singapore,adventurous,"Siloso Beach Activities, Water Jet Pack Experience (Sentosa)",Proper supervision,No,500,400
+South Korea,Seoul,Modern,N Seoul Tower (observation deck),Crowded metro,Yes,95,850
+South Korea,Gyeongju,Culture,Bulguksa Temple (UNESCO site),Wear respectful clothing,Yes,75,870
+South Korea,Busan,Photography,Gamcheon Culture Village (colorful streets),Hilly paths,Yes,80,860
+South Korea,Jeju City,Adventurous,Hallasan Mountain (volcanic peak),Weather changes at altitude,Yes,85,880
+South Korea,Incheon,Modern,Songdo Central Park (smart city),Pricey eateries,Yes,90,845
+South Korea,Andong,Culture,Hahoe Folk Village,Cultural etiquette,Yes,70,875
+South Korea,Chuncheon,Photography,Nami Island (seasonal landscapes),Cold winters,Yes,75,860
+South Korea,Suwon,Culture,Hwaseong Fortress (heritage site),Long walking distances,Yes,70,850
+South Korea,Daegu,Modern,E-World Theme Park,Watch valuables in crowds,Yes,85,860
+South Korea,Gangneung,Photography,Jeongdongjin Sunrise View,Beach safety,Yes,80,855
+South Korea,Ulsan,Culture,Daewangam Park,Uneven walking trails,Yes,75,860
+South Korea,Daejeon,Modern,Expo Science Park,Limited English signage,Yes,80,855
+South Korea,Jeonju,Culture,Jeonju Hanok Village,Footwear for cobblestone streets,Yes,75,870
+South Korea,Sokcho,Adventurous,Seoraksan National Park (hiking trails),Slippery mountain paths,Yes,80,865
+South Korea,Yeosu,Photography,Coastal Cable Car,Heights precaution,Yes,80,860
+South Korea,Mokpo,Culture,Mokpo Modern History Museum,Respect for local customs,Yes,70,860
+South Korea,Gwangju,Culture,May 18 Memorial Park (history site),Emotional subject matter,Yes,75,865
+South Korea,Pohang,Photography,Homigot Sunrise Square,Slippery coastal rocks,Yes,75,870
+South Korea,Geoje,Adventurous,Oedo Botania (island gardens),Boat travel conditions,Yes,80,870
+South Korea,Seogwipo,Photography,Jeongbang Waterfall,Wet surfaces,Yes,80,880
+Sri Lanka,Kandy,Culture,Temple of the Tooth,Remove shoes before entry,Yes,50,500
+Sri Lanka,Colombo,Modern,Lotus Tower,Beware of traffic,Yes,55,480
+Sri Lanka,Sigiriya,Photography,Sigiriya Rock Fortress,Steep stairs,Yes,45,490
+Sri Lanka,Ella,Photography,Nine Arches Bridge,Slippery paths,Yes,40,500
+Sri Lanka,Galle,Culture,Galle Fort (UNESCO site),Intense sun exposure,Yes,50,510
+Sri Lanka,Nuwara Eliya,Photography,Tea Plantations,Cold mornings,Yes,45,520
+Sri Lanka,Jaffna,Culture,Nallur Kandaswamy Temple,Conservative attire required,Yes,40,530
+Sri Lanka,Anuradhapura,Culture,Ancient City of Anuradhapura,No shoes in sacred areas,Yes,45,520
+Sri Lanka,Polonnaruwa,Culture,Ancient Ruins,Hydrate well,Yes,45,510
+Sri Lanka,Mirissa,Photography,Whale Watching Tours,Seasickness,Yes,50,500
+Sri Lanka,Trincomalee,Culture,Koneswaram Temple,Monkey presence,Yes,45,520
+Sri Lanka,Arugam Bay,Adventurous,Surfing Beach,Strong tides,Yes,45,510
+Sri Lanka,Horton Plains,Photography,World's End Cliff,Early morning cold,Yes,50,520
+Sri Lanka,Dambulla,Culture,Cave Temple Complex,Watch for bees,Yes,45,500
+Sri Lanka,Kalpitiya,Adventurous,Kite Surfing and Dolphins,Water safety,Yes,50,530
+Sri Lanka,Batticaloa,Photography,Lagoon and Dutch Fort,Insect repellent recommended,Yes,40,500
+Sri Lanka,Matara,Culture,Star Fort & Temples,Coastal heat,Yes,45,510
+Sri Lanka,Yala,Adventurous,Yala National Park Safari,Wild animal caution,Yes,55,530
+Sri Lanka,Bentota,Modern,Luxury Beach Resorts,Rip current awareness,Yes,55,510
+Sri Lanka,Ratnapura,Culture,Gem Mines and Museums,Slippery mine paths,Yes,40,520
+Syria,Damascus,Culture,Old City of Damascus (UNESCO site),Political instability,Yes,50,650
+Syria,Aleppo,Culture,Citadel of Aleppo,"War damage, restricted zones",Yes,45,670
+Syria,Palmyra,Photography,Ancient Roman Ruins (UNESCO site),Check travel advisories,Yes,40,700
+Syria,Hama,Culture,Norias of Hama (Ancient water wheels),Infrastructure damage,Yes,40,660
+Syria,Homs,Culture,Khalid ibn al-Walid Mosque,Past conflict zones,Yes,40,670
+Syria,Bosra,Photography,Roman Amphitheatre,Minimal tourist services,Yes,40,680
+Syria,Latakia,Modern,Mediterranean Beaches,Coastal security alerts,Yes,55,660
+Syria,Tartus,Photography,Arwad Island (Historic fishing village),Limited ferry options,Yes,50,650
+Syria,Maaloula,Culture,Aramaic-speaking Christian community,Regional instability,Yes,40,675
+Syria,Apamea,Photography,Roman Street Columns,Check for safe access routes,Yes,45,685
+Syria,Daraa,Culture,Ancient Ruins & Mosques,"Border proximity, caution advised",Yes,40,690
+Syria,Idlib,Culture,Ancient Villages of Northern Syria,Avoid travel unless essential,Yes,35,695
+Syria,Qamishli,Culture,Multi-Ethnic Cultural Sites,Military presence in region,Yes,40,720
+Syria,Deir ez-Zor,Culture,"Suspension Bridge, Archaeological Museum",Security restrictions,Yes,35,710
+Syria,Raqqa,Culture,Historical Mosque Sites,Travel prohibited in many areas,Yes,35,725
+Syria,Jableh,Photography,Roman Theater,Poor tourist infrastructure,Yes,45,655
+Syria,Ugarit,Photography,Ancient Ugarit Ruins,Off-the-beaten-path travel,Yes,40,670
+Syria,Safita,Photography,Crusader Castle (Chastel Blanc),Limited amenities,Yes,45,665
+Syria,Saladin Citadel,Culture,Mountain Fortress,Slippery trails and steep paths,Yes,45,680
+Syria,Al-Hasakah,Adventurous,Desert Trekking,Nomadic exposure and roadblocks,Yes,40,715
+Tajikistan,Dushanbe,Culture,National Museum of Tajikistan,Traffic congestion,Yes,45,550
+Tajikistan,Khujand,Culture,Khujand Fortress,Language barrier,Yes,40,530
+Tajikistan,Khorog,Photography,Pamir Botanical Garden,High altitude precautions,Yes,50,580
+Tajikistan,Murghab,Adventurous,Pamir Highway (Scenic Drive),Rugged terrain,Yes,45,600
+Tajikistan,Penjikent,Culture,Ancient Penjikent Ruins,Limited amenities,Yes,40,540
+Tajikistan,Iskanderkul,Photography,Iskanderkul Lake,Cold water and steep trails,Yes,45,560
+Tajikistan,Istaravshan,Culture,Mug Teppe Fortress,Uneven surfaces,Yes,40,530
+Tajikistan,Qala-i-Khum,Adventurous,GBAO Region Drive,Permit required,Yes,50,610
+Tajikistan,Langar,Photography,Wakhan Valley Panoramas,Remote access,Yes,50,590
+Tajikistan,Kulob,Culture,Mir Sayyid Ali Hamadani Shrine,Dress modestly,Yes,40,540
+Tajikistan,Ayni,Culture,Historic Mosques and Architecture,Religious sensitivity,Yes,35,520
+Tajikistan,Rushan,Adventurous,Bartang Valley Trekking,Basic facilities only,Yes,45,590
+Tajikistan,Norak,Modern,Norak Dam and Reservoir,Security around infrastructure,Yes,45,550
+Tajikistan,Hissor,Culture,Hisor Fortress,Uneven steps,Yes,40,535
+Tajikistan,Yovon,Modern,New urban parks and plazas,Heat exposure in summer,Yes,40,530
+Tajikistan,Vrang,Photography,Buddhist Stupa in the Mountains,Rough paths,Yes,45,580
+Tajikistan,Darvaz,Adventurous,Road of Bones (Mountain Driving),Landslide zones,Yes,50,600
+Tajikistan,Bulunkul,Photography,High-Altitude Lake Views,Extreme cold,Yes,50,610
+Tajikistan,Garm,Culture,Mountain Villages with Traditional Culture,Basic health facilities,Yes,40,550
+Tajikistan,Rogun,Modern,Rogun Hydropower Dam Tour,Safety regulations apply,Yes,45,570
+Thailand,Bangkok,Modern,Grand Palace & Skyline Rooftops,Beware of scams,Yes,60,150
+Thailand,Chiang Mai,Culture,Doi Suthep Temple,Respect temple rules,Yes,45,160
+Thailand,Chiang Rai,Photography,White Temple (Wat Rong Khun),Footwear required at sites,Yes,45,165
+Thailand,Ayutthaya,Culture,Historical Park (UNESCO site),Heatstroke risk,Yes,40,155
+Thailand,Phuket,Modern,Patong Beach & Nightlife,Traffic congestion,Yes,65,170
+Thailand,Krabi,Photography,Railay Beach & Limestone Cliffs,Slippery rocks,Yes,60,175
+Thailand,Pai,Adventurous,Hot Springs & Jungle Treks,Mountain road safety,Yes,35,160
+Thailand,Sukhothai,Culture,Sukhothai Historical Park,Mosquito protection,Yes,40,160
+Thailand,Koh Phi Phi,Photography,Maya Bay & Viewpoints,Coral reef protection,Yes,70,180
+Thailand,Koh Samui,Modern,Luxury Resorts & Beaches,Expensive peak season rates,Yes,75,180
+Thailand,Mae Hong Son,Photography,Foggy Mountains & Temples,Remote travel conditions,Yes,45,165
+Thailand,Lampang,Culture,Wat Phra That Lampang Luang,Quiet hours in temples,Yes,40,160
+Thailand,Kanchanaburi,Culture,Death Railway & River Kwai Bridge,Emotional sites,Yes,45,160
+Thailand,Hua Hin,Modern,Royal Palaces & Beaches,Sun exposure,Yes,55,150
+Thailand,Loei,Photography,Phu Kradueng National Park,Leech protection,Yes,40,170
+Thailand,Trang,Adventurous,Cave Beaches & Waterfalls,Cave safety awareness,Yes,50,175
+Thailand,Ubon Ratchathani,Culture,Candle Festival & Temples,Language barrier,Yes,45,165
+Thailand,Nakhon Ratchasima,Culture,Phimai Historical Park,Remote location,Yes,45,160
+Thailand,Koh Tao,Photography,Underwater Diving & Snorkeling,Diving safety,Yes,65,180
+Thailand,Phayao,Photography,Lake Views & Rural Scenery,Limited infrastructure,Yes,40,170
+Timor-Leste,Dili,Culture,Resistance Museum and Archives,Respect local customs,Yes,55,600
+Timor-Leste,Atauro Island,Photography,Coral Reefs and Marine Biodiversity,Sea safety precautions,Yes,50,620
+Timor-Leste,Baucau,Culture,Portuguese Colonial Buildings,Limited English signage,Yes,45,610
+Timor-Leste,Maubisse,Photography,Mountain Viewpoints and Traditional Houses,Cold nights,Yes,40,630
+Timor-Leste,Suai,Culture,Sacred Houses and Historical Sites,Travel infrastructure limited,Yes,40,640
+Timor-Leste,Tutuala,Photography,Jaco Island Viewpoints,Bring sufficient water,Yes,45,650
+Timor-Leste,Lospalos,Culture,Lautem Cultural Center,Basic accommodations,Yes,40,620
+Timor-Leste,Same,Photography,Natural Springs and Rainforest Views,Insect protection,Yes,45,615
+Timor-Leste,Balibo,Culture,Historic Fort and Balibo Five Memorial,Sensitive political history,Yes,40,610
+Timor-Leste,Ermera,Photography,Coffee Plantations in Highlands,Steep mountain roads,Yes,45,625
+Timor-Leste,Venilale,Culture,Resistance Caves and Japanese Tunnels,Uneven terrain,Yes,40,620
+Timor-Leste,Manatuto,Culture,Traditional Weaving Villages,Sun protection needed,Yes,40,615
+Timor-Leste,Aileu,Photography,Hilly Landscapes and Sunset Points,Unpaved roads,Yes,45,610
+Timor-Leste,Liqui??,Culture,Colonial Churches and Seaside Forts,Watch for strong tides,Yes,45,605
+Timor-Leste,Maliana,Photography,Scenic Rice Fields and Farmlands,Remote medical access,Yes,40,615
+Timor-Leste,Gleno,Culture,Local Markets and Handicrafts,Carry local currency,Yes,40,610
+Timor-Leste,Oecusse,Adventurous,Cross-border Exclave Adventure,Passport checks at crossings,Yes,50,680
+Timor-Leste,Fatumean,Photography,Fog-Covered Hills and Villages,Limited transportation,Yes,40,635
+Timor-Leste,Fohorem,Culture,Community Ritual Spaces,Rural area?bring essentials,Yes,40,630
+Timor-Leste,Viqueque,Photography,Mangroves and River Estuaries,Mosquito repellent advised,Yes,45,620
+Turkey,Istanbul,Culture,Hagia Sophia (historic mosque),Beware of pickpockets,Yes,80,550
+Turkey,Cappadocia,Photography,Hot Air Balloon Rides over Fairy Chimneys,Book tours in advance,Yes,75,600
+Turkey,Pamukkale,Photography,Travertine Terraces and Hierapolis,Slippery paths,Yes,70,580
+Turkey,Antalya,Modern,Lara Beach and Resorts,Sun protection,Yes,85,540
+Turkey,Izmir,Culture,Ephesus Ancient City,Wear comfortable shoes,Yes,70,560
+Turkey,Ankara,Modern,Atat?rk Mausoleum,City traffic,Yes,75,530
+Turkey,Trabzon,Photography,Sumela Monastery,Steep climbs,Yes,65,580
+Turkey,Konya,Culture,Mevlana Museum (Whirling Dervishes),Respect religious norms,Yes,60,550
+Turkey,Bodrum,Modern,Marina & Nightlife,Overpriced tourist spots,Yes,85,540
+Turkey,Fethiye,Photography,Blue Lagoon (?l?deniz),Water safety,Yes,80,570
+Turkey,Mardin,Culture,Stone Houses and Ancient Streets,Remote area travel,Yes,65,590
+Turkey,Van,Photography,Lake Van and Akdamar Church,Altitude awareness,Yes,60,600
+Turkey,Kayseri,Adventurous,Mount Erciyes (skiing/hiking),Cold weather gear,Yes,70,590
+Turkey,Gaziantep,Culture,Zeugma Mosaic Museum,Spicy food caution,Yes,65,580
+Turkey,Sanliurfa,Culture,Pool of Abraham & Cave of Prophet Ibrahim,Religious site etiquette,Yes,60,590
+Turkey,Kars,Photography,Ani Ruins (ancient Armenian city),Winter travel preparedness,Yes,60,600
+Turkey,Amasya,Photography,Ottoman Houses and Tombs of Kings,Hilly walking areas,Yes,60,580
+Turkey,Adana,Modern,Sabanc? Central Mosque & Riverwalk,Heat during summer,Yes,70,570
+Turkey,Rize,Photography,Tea Plantations & Cloud Forests,Rainy weather gear,Yes,65,590
+Turkey,Duzce,Adventurous,Waterfalls & Rafting in Melen River,Safety during water activities,Yes,65,580
+Turkmenistan,Ashgabat,Modern,White Marble Buildings,Strict photography rules,Yes,60,850
+Turkmenistan,Merv,Culture,Ancient City of Merv (UNESCO site),Desert heat,Yes,50,870
+Turkmenistan,Konye-Urgench,Culture,Mausoleums and Minarets,Remote location,Yes,45,880
+Turkmenistan,Darvaza,Adventurous,Darvaza Gas Crater (?Door to Hell?),"Extreme heat, no safety rails",Yes,55,890
+Turkmenistan,Turkmenbashi,Photography,Caspian Sea Shoreline,Strong coastal winds,Yes,50,860
+Turkmenistan,Nisa,Culture,Parthian Fortresses (UNESCO site),Limited tourist services,Yes,45,875
+Turkmenistan,Balkanabat,Modern,Oil & Gas Industry Sites,Industrial hazards,Yes,55,865
+Turkmenistan,Yangykala,Photography,Yangykala Canyon,Rough access roads,Yes,60,880
+Turkmenistan,Dashoguz,Culture,Historic Mosques and Forts,Basic amenities,Yes,50,870
+Turkmenistan,Mary,Culture,Ancient ruins near Merv,Very hot summers,Yes,50,860
+Turkmenistan,K??tendag,Adventurous,K??tendag Mountains & Dinosaur Plateau,Wild terrain,Yes,55,890
+Turkmenistan,Avaza,Modern,Resort Town by the Caspian Sea,Off-season closures,Yes,60,850
+Turkmenistan,Dehistan,Culture,Ancient City Ruins,Harsh desert climate,Yes,50,880
+Turkmenistan,Garabogaz,Photography,Salt Lake Landscape,Salty air & road dust,Yes,45,870
+Turkmenistan,Serdar,Culture,Local Cultural Centers,Minimal tourist signage,Yes,50,865
+Turkmenistan,Magtymguly,Culture,Poets' Museums & Cultural Heritage,Cultural etiquette,Yes,50,875
+Turkmenistan,Tagtabazar,Photography,Desert Oases & Nomadic Camps,Limited facilities,Yes,45,880
+Turkmenistan,Altyn Asyr,Modern,National Mall & Monuments,Surveillance awareness,Yes,55,855
+Turkmenistan,Gypjak,Culture,Turkmenbashi Mosque,Dress modestly,Yes,45,860
+Turkmenistan,Kerki,Culture,Border Culture Mix,Restricted border region,Yes,50,875
+United Arab Emirates,Dubai,Modern,Burj Khalifa (skyline view),High expenses,Yes,120,500
+United Arab Emirates,Abu Dhabi,Culture,Sheikh Zayed Grand Mosque,Dress conservatively,Yes,110,520
+United Arab Emirates,Sharjah,Culture,Sharjah Museum of Islamic Civilization,Alcohol restrictions,Yes,90,510
+United Arab Emirates,Al Ain,Photography,Jebel Hafeet (mountain landscape),Dehydration risk,Yes,85,530
+United Arab Emirates,Ras Al Khaimah,Adventurous,Jebel Jais Zipline (world?s longest),Height restrictions,Yes,100,540
+United Arab Emirates,Fujairah,Photography,Al Bidya Mosque & Mountain Views,Sun protection needed,Yes,85,510
+United Arab Emirates,Umm Al Quwain,Culture,UAQ National Museum,Limited transport,Yes,75,515
+United Arab Emirates,Ajman,Modern,Ajman Corniche,Nighttime safety awareness,Yes,80,505
+United Arab Emirates,Dubai,Photography,Dubai Marina & Desert Safari,Extreme heat,Yes,120,500
+United Arab Emirates,Abu Dhabi,Modern,Louvre Abu Dhabi (art museum),Book tickets in advance,Yes,110,520
+United Arab Emirates,Hatta,Adventurous,Hatta Dam Kayaking & Hiking,Slippery rocks,Yes,90,530
+United Arab Emirates,Dubai,Culture,Al Fahidi Historical District,Respect cultural etiquette,Yes,110,500
+United Arab Emirates,Al Ain,Culture,Al Ain Oasis (UNESCO heritage site),Heat precautions,Yes,85,530
+United Arab Emirates,Ras Al Khaimah,Photography,Dhayah Fort Viewpoint,Uneven climbing paths,Yes,90,540
+United Arab Emirates,Fujairah,Adventurous,Scuba Diving in the Gulf of Oman,Marine safety rules,Yes,100,510
+United Arab Emirates,Dubai,Modern,The Dubai Mall & Fountain Show,Watch for pickpockets,Yes,120,500
+United Arab Emirates,Sharjah,Photography,Light Festival & Heritage Area,Tripod restrictions in some areas,Yes,85,510
+United Arab Emirates,Abu Dhabi,Photography,Mangrove National Park,Bring insect repellent,Yes,100,520
+United Arab Emirates,Dubai,Adventurous,Skydiving over The Palm,Weather conditions affect schedules,Yes,130,500
+United Arab Emirates,Ras Al Khaimah,Culture,National Museum of RAK,Limited English signage,Yes,85,540
+Uzbekistan,Samarkand,Culture,Registan Square (Islamic architecture),Respect religious customs,Yes,50,550
+Uzbekistan,Bukhara,Culture,Ark Fortress (historic citadel),Heat in summer,Yes,45,540
+Uzbekistan,Khiva,Photography,Itchan Kala (walled city),Uneven cobblestones,Yes,45,530
+Uzbekistan,Tashkent,Modern,Tashkent Tower (city view),Traffic congestion,Yes,60,520
+Uzbekistan,Nukus,Culture,Savitsky Museum (avant-garde art),Remote travel planning,Yes,50,570
+Uzbekistan,Shakhrisabz,Culture,Ak-Saray Palace (Timurid ruins),Poor signage,Yes,45,550
+Uzbekistan,Termez,Culture,Fayaz Tepe Monastery (Buddhist ruins),Extreme summer temperatures,Yes,45,560
+Uzbekistan,Andijan,Modern,Independence Square,Urban safety at night,Yes,50,530
+Uzbekistan,Margilan,Culture,Yodgorlik Silk Factory,Sensitive to photography rules,Yes,40,520
+Uzbekistan,Kokand,Culture,Khudoyar Khan Palace,Lack of English guides,Yes,45,525
+Uzbekistan,Zarafshan,Adventurous,Zeravshan Mountains (hiking),Trekking safety,Yes,40,580
+Uzbekistan,Fergana,Culture,Regional Art Museum,Conservative dress suggested,Yes,45,530
+Uzbekistan,Karakalpakstan,Photography,Aral Sea Ship Graveyard,Environmental hazards,Yes,50,590
+Uzbekistan,Urgench,Modern,Amu Darya River Promenade,Heat and sun exposure,Yes,50,540
+Uzbekistan,Navoi,Modern,Navoi Theater & Plaza,Overpriced local vendors,Yes,50,550
+Uzbekistan,Jizzakh,Adventurous,Nuratau Mountains (eco-tourism),Wildlife awareness,Yes,40,570
+Uzbekistan,Karshi,Culture,Odina Mosque,Limited public transport,Yes,45,560
+Uzbekistan,Denau,Photography,Hissar Range (landscape photography),Weather changes in mountains,Yes,40,560
+Uzbekistan,Sariosiyo,Adventurous,Surkhan Range Trekking Trails,Altitude caution,Yes,40,575
+Uzbekistan,Angren,Modern,Industrial Cityscape,Air quality awareness,Yes,50,540
+Taiwan,Taipei,Modern,Taipei 101 (skyscraper observatory),Crowded subways,Yes,85,600
+Taiwan,Tainan,Culture,Chihkan Tower (historical site),Heat in summer,Yes,70,580
+Taiwan,Jiufen,Photography,Mountain village streets,Slippery paths,Yes,75,590
+Taiwan,Taroko Gorge,Adventurous,Taroko National Park (marble canyons),Rockfall risk,Yes,80,610
+Taiwan,Kaohsiung,Modern,Pier-2 Art Center,Beware of pickpockets,Yes,80,600
+Taiwan,Alishan,Photography,Sunrise Viewpoint (forest mountain rail),Altitude sensitivity,Yes,75,620
+Taiwan,Lukang,Culture,Lukang Old Street (heritage town),Limited English signage,Yes,70,610
+Taiwan,Sun Moon Lake,Photography,Scenic lake cycling and boat tours,Sunscreen and hydration needed,Yes,80,620
+Taiwan,Hualien,Adventurous,Qingshui Cliffs (coastal hike),Watch for falling debris,Yes,75,610
+Taiwan,Taichung,Modern,Rainbow Village (street art),Tourist congestion on weekends,Yes,80,590
+Taiwan,Tamsui,Culture,Fort San Domingo,Slippery stone paths in rain,Yes,70,580
+Taiwan,Kenting,Photography,Kenting National Park (beach & reef views),Strong sun and currents,Yes,85,620
+Taiwan,Maolin,Adventurous,Butterfly Valley Trail,Wild animal awareness,Yes,70,615
+Taiwan,Puli,Culture,Chung Tai Chan Monastery,Cultural respect advised,Yes,70,600
+Taiwan,Dajia,Culture,Dajia Jenn Lann Temple,Large festival crowds,Yes,65,590
+Taiwan,Beitou,Modern,Beitou Hot Springs,Hot spring safety,Yes,75,600
+Taiwan,Penghu,Photography,Basalt columns and sea arches,Ferry weather delays,Yes,80,640
+Taiwan,Green Island,Adventurous,Diving and volcanic coastline,Marine hazards,Yes,85,650
+Taiwan,Yilan,Photography,Lanyang Museum & Coastal Wetlands,Mosquito protection,Yes,75,610
+Taiwan,Meinong,Culture,Hakka Cultural Museum,Some remote transport routes,Yes,65,605
+Vietnam,Hanoi,Culture,Ho Chi Minh Mausoleum,Traffic chaos,Yes,45,500
+Vietnam,Ho Chi Minh City,Modern,Bitexco Financial Tower,Beware of pickpockets,Yes,50,520
+Vietnam,Hoi An,Culture,Ancient Town (UNESCO site),Flooding in rainy season,Yes,40,530
+Vietnam,Da Nang,Modern,Golden Bridge (Ba Na Hills),Slippery trails,Yes,45,540
+Vietnam,Sapa,Photography,Rice Terraces & Hill Tribes,"Cold weather, fog",Yes,40,550
+Vietnam,Ha Long,Photography,Ha Long Bay (limestone karsts),Boat safety,Yes,50,560
+Vietnam,Hue,Culture,Imperial City,Heat and humidity,Yes,40,520
+Vietnam,Ninh Binh,Photography,Trang An Landscape Complex,Slippery caves,Yes,35,530
+Vietnam,Phong Nha,Adventurous,"Paradise Cave, Son Doong Cave",Cave safety,Yes,40,550
+Vietnam,Mui Ne,Photography,Sand Dunes & Kite Surfing,"Sunburn, dehydration",Yes,45,540
+Vietnam,Da Lat,Photography,Waterfalls & Colonial Villas,Chilly mornings,Yes,40,520
+Vietnam,Can Tho,Culture,Floating Markets on Mekong Delta,River safety,Yes,35,510
+Vietnam,Nha Trang,Modern,Beach Resorts & Water Parks,Ocean currents,Yes,50,530
+Vietnam,Bac Ha,Culture,Ethnic Markets,Steep roads,Yes,35,550
+Vietnam,Quy Nhon,Photography,"Ky Co Beach, Eo Gio Cliff Views",Limited transport options,Yes,40,540
+Vietnam,Ha Giang,Adventurous,Ma Pi Leng Pass (scenic drive),Dangerous mountain roads,Yes,35,560
+Vietnam,Con Dao,Photography,Secluded Beaches & Historical Prisons,Limited connectivity,Yes,45,570
+Vietnam,Vung Tau,Modern,Christ the King Statue & Coastal Promenade,Slippery cliffs,Yes,45,510
+Vietnam,Tay Ninh,Culture,Cao Dai Temple,Dress modestly,Yes,35,520
+Vietnam,Pleiku,Adventurous,Volcano Highlands & Waterfalls,Rugged terrain,Yes,40,550
+Yemen,Sana'a,Culture,Old City of Sana'a (UNESCO site),Political instability,Yes,45,700
+Yemen,Shibam,Photography,Shibam Hadramawt (Mud Skyscrapers),Remote location,Yes,40,720
+Yemen,Al Mukalla,Modern,Coastal Promenade,Security concerns,Yes,50,680
+Yemen,Socotra,Photography,Dragon Blood Trees (Biodiversity island),Limited medical facilities,Yes,55,750
+Yemen,Taiz,Culture,Cairo Castle (Historic fort),Conflict zone,Yes,40,690
+Yemen,Aden,Modern,Crescent Beach,Stay in secure areas,Yes,50,670
+Yemen,Zabid,Culture,Ancient University Town,Local dress code,Yes,35,710
+Yemen,Al Mahwit,Photography,Terraced Mountain Villages,Narrow roads,Yes,45,700
+Yemen,Al Hudaydah,Culture,Red Sea Fishing Port,High temperatures,Yes,40,680
+Yemen,Ibb,Photography,Lush Highlands,Rainy season hazards,Yes,45,690
+Yemen,Marib,Culture,Temple of the Moon,Archaeological sensitivity,Yes,40,720
+Yemen,Sayun,Culture,Sultan?s Palace Museum,Limited tourist infrastructure,Yes,45,710
+Yemen,Tarim,Culture,Al-Muhdhar Mosque,Respect religious customs,Yes,40,700
+Yemen,Al Ghaydah,Modern,Arabian Sea Beaches,Travel documentation checks,Yes,50,730
+Yemen,Dhamar,Culture,Ancient Tombs and Ruins,Seismic activity zone,Yes,35,705
+Yemen,Hajjah,Photography,Mountain Terraces,Difficult terrain,Yes,40,715
+Yemen,Amran,Culture,Historic Fortified Towns,Language barrier,Yes,40,695
+Yemen,Al Jawf,Adventurous,Desert Landscapes,Sandstorms,Yes,35,725
+Yemen,Saada,Culture,Traditional Markets,Conflict-prone region,Yes,35,720
+Yemen,Al Mahrah,Photography,Remote Coastal Views,Limited access roads,Yes,40,730

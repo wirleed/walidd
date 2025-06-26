@@ -31,7 +31,7 @@ matplotlib==3.10.3
 multiprocess==0.70.18
 narwhals==1.42.1
 numba==0.61.2
-numpy==1.24.4
+numpy==1.26.4
 packaging==24.2
 pandas==2.1.4
 pillow==11.2.1
